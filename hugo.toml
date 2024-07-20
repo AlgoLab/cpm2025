@@ -1,5 +1,5 @@
 # !! CHANGE BASE URL !!
-baseURL = 'https://example.org/'
+baseURL = 'https://cpm2025.pages.dev/'
 languageCode = 'en-us'
 title = 'CPM 2025'
 theme = "mainroad"
@@ -11,5 +11,5 @@ image = "img/cpm-logo-small.png" # Logo image. Path relative to "static"
 [Params.sidebar]
 home = "left" # Configure layout for home page
 list = "right"  # Configure layout for list pages
-widgets = ["recent"]
+widgets = ["sidebar_menu"]
 single = false
