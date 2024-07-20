@@ -6,7 +6,7 @@ theme = "mainroad"
 mainSections = ["posts"]
 
 [Params.logo]
-image = "cpm-logo-small.png" # Logo image. Path relative to "static"
+image = "img/cpm-logo-small.png" # Logo image. Path relative to "static"
 
 [Params.sidebar]
 home = "left" # Configure layout for home page
