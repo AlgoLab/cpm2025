@@ -7,9 +7,9 @@ See you in Milan next year!
 
 ## Important dates
 
-    Submission deadline: 
-    Author notification: 
-    Conference: June 25–27, 2024
+**Submission deadline:**   
+**Author notification:**   
+**Conference: June 25–27, 2024**  
 
 ## Event schedule
 schedule
