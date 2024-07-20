@@ -11,8 +11,6 @@
 
 ## Wednesday June 18th
 
-
-
 ## Thursday June 19th
 
 
