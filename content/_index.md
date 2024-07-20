@@ -9,7 +9,7 @@ See you in Milan next year!
 
 **Submission deadline:**   
 **Author notification:**   
-**Conference: June 25–27, 2024**  
+**Conference: June 17–19, 2025**  
 
 ## Event schedule
 schedule
