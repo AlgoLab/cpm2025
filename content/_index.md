@@ -12,7 +12,7 @@ See you in Milan next year!
     Conference: June 25–27, 2024
 
 ## Event schedule
-shedule
+schedule
 
 ## Contact
 
