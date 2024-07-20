@@ -1,3 +1,0 @@
-# Summer school
-
-TBA
