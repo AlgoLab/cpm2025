@@ -1,0 +1,15 @@
+# !! CHANGE BASE URL !!
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'CPM 2025'
+theme = "mainroad"
+mainSections = ["posts"]
+
+[Params.logo]
+image = "cpm-logo-small.png" # Logo image. Path relative to "static"
+
+[Params.sidebar]
+home = "left" # Configure layout for home page
+list = "right"  # Configure layout for list pages
+widgets = ["recent"]
+single = false

@@ -1,0 +1,48 @@
+<!-- {{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+
+{{- if $recent }}
+<div class="widget-recent widget">
+	<h4 class="widget__title">{{ T "recent_title" }}</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			{{- range first $recent_num $recent }}
+			<li class="widget__item"><a class="widget__link" href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+			{{- end }}
+		</ul>
+	</div>
+</div>
+{{- end }} -->
+
+{{- $recent := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+{{- $recent_num := (.Site.Params.widgets.recent_num | default 10) }}
+
+{{- if $recent }}
+<div class="widget-recent widget" style="width:70%">
+	<h4 style="color: #221188; margin: 0px;"> Conference </h4>
+	<a style="color: #221188;" href="/"> Home </a><br>
+	<a style="color: #221188;" href="/posts/keynote_speaker"> Keynote Speakers </a><br>
+	<a style="color: #221188;" href="/posts/highlightss"> Highlights of CPM </a><br>
+	<a style="color: #221188;" href="/posts/programme"> Programme </a><br>
+	<a style="color: #221188;" href="/posts/committees"> Committes </a><br>
+	<a style="color: #221188;" href="/posts/call_for_papers"> Call for papers </a><br>
+	<a style="color: #221188;" href="/posts/registration"> Registration </a><br>
+	<a style="color: #221188;" href="/posts/excursion"> Excrusion and Conference Dinner </a><br>
+	<a style="color: #221188;" href="/posts/awards"> Awards </a><br>
+	<hr><h4 style="color: #221188; margin: 0px;"> Papers and proceedings </h4>
+	<a style="color: #221188;" href="/posts/accepted_papers"> Accepted Papers </a>
+	<a style="color: #221188;" href="/"> Proceedings </a>
+	<hr><h4 style="color: #221188; margin: 0px;"> Local information </h4>
+	<a style="color: #221188;" href="/posts/venue"> Venue </a>
+	<hr><h4 style="color: #221188; margin: 0px;"> Travel </h4>
+	<a style="color: #221188;" href="/posts/arrival"> Arrival and Accommodation </a>
+	<a style="color: #221188;" href="/posts/practicalities"> Practicalities </a>
+	<hr><h4 style="color: #221188; margin: 0px;"> Other </h4>
+	<a style="color: #221188;" href="/posts/stringmasters"> StringMasters </a>
+	<a style="color: #221188;" href="/posts/summer_school"> Summer school </a>
+	<a style="color: #221188;" href="http://www.cs.ucr.edu/~stelo/cpm/"> CPM Archive </a>
+	<a style="color: #221188;" href="https://cpm2024.github.io/CoC.pdf"> Code of Conduct </a>
+	<hr><h4 style="color: #221188; margin: 0px;"> Poster </h4>
+	<a href="/CPM2024_large.pdf"><img style="max-width: 70%; width:70%; min-width: 70%" src="/CPM2024_poster.png"></a>
+</div>
+{{- end }}
