@@ -1348,3 +1348,22 @@ textarea {
 		font-size: .6875rem;
 	}
 }
+
+a:link {
+	color: #221188;}
+a:visited {
+	color: #221188;}
+h1 {
+	color: #221188;}
+h2 {
+	color: #221188;}
+h3 {
+	color: #221188;}
+h4 {
+	color: #221188;}
+a {
+	color: #221188;
+}
+body {
+	color: #000;
+}

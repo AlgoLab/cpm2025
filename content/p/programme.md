@@ -1,8 +1,9 @@
 <style type="text/css">
 tbody { width:100%;background-color:#ddeeff;border-collapse:collapse; }
 table { width:100%;background-color:#ddeeff;border-collapse:collapse; }
-th { background-color:#ddeeff;color:white;width:50%; }
-td, th { padding:1px;border:1px solid #ddeeff; }
+th { background-color:#ddeeff;color:white;width:50%;padding:1px;border:2px solid #ddeeff; }
+td { padding:0px;border:2px solid #ddeeff; }
+td { background-color: #c7fdb5; }
 .table--bg--red {
 	background-color: #ffcfdc;
 }
@@ -23,10 +24,7 @@ td, th { padding:1px;border:1px solid #ddeeff; }
 
 | <a></a> | <a></a> |
 | --- | --- |
-| 08:00-09:00</div> | <div class="table--bg--red">Speakers</div> |
-
-| <a></a> | <a></a> |
-| --- | --- |
+| <div class="table--bg--red">08:00-09:00</div> | <div class="table--bg--red">Speakers</div> |
 | <div class="table--bg--yellow">08:00-09:00</div> | <div class="table--bg--yellow">Coffee break</div> |
 
 ### Contributed talk 1 (Chair: XX YY)
