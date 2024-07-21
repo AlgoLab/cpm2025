@@ -20,11 +20,21 @@ td, th { padding:1px;border:1px solid #ddeeff; }
 
 ### Keynote talk 1 (Chair: XX YY)
 
+
 | <a></a> | <a></a> |
 | --- | --- |
-| <div class="table--bg--red">08:00-09:00</div> | <div class="table--bg--red">Speakers</div> |
-| <div class="table--bg--yellow">08:00-09:00</div> | <div class="table--bg--yellow">Speakers</div> |
-| <div class="table--bg--green">08:00-09:00</div> | <div class="table--bg--green">Speakers</div> |
+| 08:00-09:00</div> | <div class="table--bg--red">Speakers</div> |
+
+| <a></a> | <a></a> |
+| --- | --- |
+| <div class="table--bg--yellow">08:00-09:00</div> | <div class="table--bg--yellow">Coffee break</div> |
+
+### Contributed talk 1 (Chair: XX YY)
+
+| <a></a> | <a></a> |
+| --- | --- |
+| #### 08:00-09:00 | #### Speaker 1. *Title* |
+| 09:00-10:00 | Speaker 2. *Title* |
 
 ## Wednesday June 18th
 
