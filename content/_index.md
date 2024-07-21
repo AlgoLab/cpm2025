@@ -20,8 +20,3 @@ You can reach us by email at
 
 ## Sponsored by
 
-## table
-
-|  <a></a>  |  <a></a> |
-| --------- | -------- |
-| Test1     | Test2 |
