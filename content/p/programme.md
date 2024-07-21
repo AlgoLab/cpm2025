@@ -13,6 +13,35 @@ td { background-color: #c7fdb5; }
 .table--bg--green {
 	background-color: #c7fdb5;
 }
+.boxy {
+    background-color: #ffffc2;
+    padding: 5px;
+    max-width: 10%;
+    border: 1px solid #000;
+    border-radius: 11px;
+    display: inline
+}
+.boxg {
+    background-color: #c7fdb5;
+    padding: 5px;
+    max-width: 10%;
+    border: 1px solid #000;
+    border-radius: 11px;
+    display: inline
+}
+.boxr {
+    background-color: #ffcfdc;
+    padding: 5px;
+    max-width: 10%;
+    border: 1px solid #000;
+    border-radius: 11px;
+    display: inline
+}
+.cont {
+    display: inline;
+    margin-top: -40px;
+
+}
 </style>
 
 # Program
@@ -34,7 +63,23 @@ td { background-color: #c7fdb5; }
 | #### 08:00-09:00 | #### Speaker 1. *Title* |
 | 09:00-10:00 | Speaker 2. *Title* |
 
-## Wednesday June 18th
+<br><br>
+
+#### 18:30 {.boxy}
+##### Keynote1 {.cont}
+Incontro alle 18:30
+<br>
+#### 18:30 {.boxg}
+##### Keynote2 {.cont}
+Incontro alle 19:30
+Test linea 2
+
+<br>
+
+#### 18:30 {.boxr}
+##### Keynote3 {.cont}
+
+<br><br>
 
 ## Thursday June 19th
 
