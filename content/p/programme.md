@@ -13,7 +13,7 @@ td { background-color: #c7fdb5; }
 .table--bg--green {
 	background-color: #c7fdb5;
 }
-.boxy {
+.keynote {
     background-color: #ffffc2;
     padding: 5px;
     max-width: 10%;
@@ -21,7 +21,7 @@ td { background-color: #c7fdb5; }
     border-radius: 11px;
     display: inline
 }
-.boxg {
+.talk {
     background-color: #c7fdb5;
     padding: 5px;
     max-width: 10%;
@@ -29,7 +29,7 @@ td { background-color: #c7fdb5; }
     border-radius: 11px;
     display: inline
 }
-.boxr {
+.break {
     background-color: #ffcfdc;
     padding: 5px;
     max-width: 10%;
@@ -49,6 +49,8 @@ td { background-color: #c7fdb5; }
 ## Tuesday June 17th
 
 ### Keynote talk 1 (Chair: XX YY)
+#### 18:30 {.keynote}
+##### Keynote speaker 1, title {.cont}
 
 
 | <a></a> | <a></a> |
@@ -56,7 +58,10 @@ td { background-color: #c7fdb5; }
 | <div class="table--bg--red">08:00-09:00</div> | <div class="table--bg--red">Speakers</div> |
 | <div class="table--bg--yellow">08:00-09:00</div> | <div class="table--bg--yellow">Coffee break</div> |
 
-### Contributed talk 1 (Chair: XX YY)
+#### 19:30 {.break}
+##### Coffee break {.cont}
+
+
 
 | <a></a> | <a></a> |
 | --- | --- |
@@ -65,21 +70,12 @@ td { background-color: #c7fdb5; }
 
 <br><br>
 
-#### 18:30 {.boxy}
-##### Keynote1 {.cont}
 Incontro alle 18:30
 <br>
-#### 18:30 {.boxg}
-##### Keynote2 {.cont}
-Incontro alle 19:30
-Test linea 2
+### Contributed talk 1 (Chair: XX YY) 
+#### 14:30 {.talk}
+##### Speakers. Title {.cont}
 
-<br>
-
-#### 18:30 {.boxr}
-##### Keynote3 {.cont}
-
-<br><br>
 
 ## Thursday June 19th
 
