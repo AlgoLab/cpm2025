@@ -994,6 +994,7 @@ video {
 }
 
 /* Table */
+/*
 table {
 	width: 100%;
 	margin-bottom: 20px;
@@ -1014,7 +1015,12 @@ th {
 th {
 	font-weight: 700;
 }
+*/
 
+tbody { width:100%;background-color:#eee;border-collapse:collapse; }
+table { width:100%;background-color:#eee;border-collapse:collapse; }
+th { background-color:#000;color:white;width:50%; }
+td, th { padding:1px;border:3px solid #000; }
 /* Forms */
 input {
 	padding: 5px;

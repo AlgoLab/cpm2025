@@ -13,3 +13,9 @@ home = "left" # Configure layout for home page
 list = "right"  # Configure layout for list pages
 widgets = ["sidebar_menu"]
 single = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
