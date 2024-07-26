@@ -20,3 +20,6 @@ You can reach us by email at
 
 ## Sponsored by
 
+[![University of Milano-Bicocca](unimib.jpg)](https://www.unimib.it)
+
+[![PANGAIA](pangaia-logo-trimmed.png)](https://www.pangenome.eu)
