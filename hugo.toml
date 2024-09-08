@@ -1,5 +1,5 @@
 # !! CHANGE BASE URL !!
-baseURL = 'https://cpm2025.pages.dev/'
+baseURL = 'https://cpm2025.pangenome.eu/'
 languageCode = 'en-us'
 title = 'CPM 2025'
 theme = "mainroad"
