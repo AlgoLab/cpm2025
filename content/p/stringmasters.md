@@ -93,25 +93,36 @@ How to get to the venue/floor can be found on the CPM website.
 ## Monday June 16th
 
 ### Plenary Introductory Session
+
 #### 09:30 - 09:35
 ##### Opening {.cont}
+
 #### 09:35 - 10:00 {.keynote}
 ##### Introduction of Open Problems {.cont}
+
 #### 10:00 - 10:15 {.keynote}
 ##### Distribution of Problems among Participants - Forming Teams {.cont}
+
 ### Working Sessions
+
 #### 10:15 - 11:40 {.keynote}
 ##### First Group Session {.cont}
+
 #### 11:40 - 12:00 {.keynote}
 ##### Gathering First Results [Plenary Session], possibilities to switch groups {.cont}
+
 #### 12:00 - 14:00 {.break}  
 ##### Break {.cont}
+
 #### 14:00 - 16:00 {.keynote}
 ##### Second Group Session {.cont}
+
 #### 16:00 - 16:20 {.keynote}
 ##### Gathering Results of Second Session [Plenary Session], possibilities to switch groups {.cont}
+
 #### 16:20 - 17:30 {.keynote}
 ##### Third Group Session, Summarizing Results {.cont}
+
 #### 17:30 -  {.talk}
 ##### Free Discussion {.cont}
 
@@ -119,25 +130,36 @@ How to get to the venue/floor can be found on the CPM website.
 ## Friday June 20th
 
 ### Plenary Introductory Session
+
 #### 09:30 - 09:35
 ##### Opening {.cont}
+
 #### 09:35 - 10:00 {.keynote}
 ##### Recall of Monday's Problems and Introduction of New Open Problems {.cont}
+
 #### 10:00 - 10:15 {.keynote}
 ##### Distribution of Problems among Participants - Forming Teams  {.cont}
+
 ### Working Sessions
+
 #### 10:15 - 11:40 {.keynote}
 ##### Fourth Group Session {.cont}
+
 #### 11:40 - 12:00 {.keynote}
 ##### Gathering results of fourth session [Plenary Session], possibilities to switch groups {.cont}
+
 #### 12:00 - 14:00 {.break}  
 ##### Break {.cont}
+
 #### 14:00 - 16:00 {.keynote}
 ##### Fifth  Group Session {.cont}
+
 #### 16:00 - 16:20 {.keynote}
 ##### Gathering Results of Fifth  Session [Plenary Session], possibilities to switch groups {.cont}
+
 #### 16:20 - 17:30 {.keynote}
 ##### Sixth Group Session, Summarizing Results {.cont}
+
 #### 17:30 -  {.talk}
 ##### Free Discussion {.cont}
 
