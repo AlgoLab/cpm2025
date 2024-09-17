@@ -1,3 +1,50 @@
+<style type="text/css">
+tbody { width:100%;background-color:#ddeeff;border-collapse:collapse; }
+table { width:100%;background-color:#ddeeff;border-collapse:collapse; }
+th { background-color:#ddeeff;color:white;width:50%;padding:1px;border:2px solid #ddeeff; }
+td { padding:0px;border:2px solid #ddeeff; }
+td { background-color: #c7fdb5; }
+.table--bg--red {
+	background-color: #ffcfdc;
+}
+.table--bg--yellow {
+	background-color: #ffffc2;
+}
+.table--bg--green {
+	background-color: #c7fdb5;
+}
+.keynote {
+    background-color: #ffffc2;
+    padding: 5px;
+    max-width: 10%;
+    border: 1px solid #000;
+    border-radius: 11px;
+    display: inline
+}
+.talk {
+    background-color: #c7fdb5;
+    padding: 5px;
+    max-width: 10%;
+    border: 1px solid #000;
+    border-radius: 11px;
+    display: inline
+}
+.break {
+    background-color: #ffcfdc;
+    padding: 5px;
+    max-width: 10%;
+    border: 1px solid #000;
+    border-radius: 11px;
+    display: inline
+}
+.cont {
+    display: inline;
+    margin-top: -40px;
+
+}
+</style>
+
+
 # Stringmasters
 
 Just before and after CPM 2025, there will be a StringMasters workshop on June 16 and 20. 
@@ -43,7 +90,58 @@ How to get to the venue/floor can be found on the CPM website.
 
 ## Programme
 
-TBA
+## Monday June 16th
+
+### Plenary Introductory Session
+#### 09:30 - 09:35
+##### Opening {.cont}
+#### 09:35 - 10:00 {.keynote}
+##### Introduction of Open Problems {.cont}
+#### 10:00 - 10:15 {.keynote}
+##### Distribution of Problems among Participants - Forming Teams {.cont}
+### Working Sessions
+#### 10:15 - 11:40 {.keynote}
+##### First Group Session {.cont}
+#### 11:40 - 12:00 {.keynote}
+##### Gathering First Results [Plenary Session], possibilities to switch groups {.cont}
+#### 12:00 - 14:00 {.break}  
+##### Break {.cont}
+#### 14:00 - 16:00 {.keynote}
+##### Second Group Session {.cont}
+#### 16:00 - 16:20 {.keynote}
+##### Gathering Results of Second Session [Plenary Session], possibilities to switch groups {.cont}
+#### 16:20 - 17:30 {.keynote}
+##### Third Group Session, Summarizing Results {.cont}
+#### 17:30 -  {.talk}
+##### Free Discussion {.cont}
+
+
+## Friday June 20th
+
+### Plenary Introductory Session
+#### 09:30 - 09:35
+##### Opening {.cont}
+#### 09:35 - 10:00 {.keynote}
+##### Recall of Monday's Problems and Introduction of New Open Problems {.cont}
+#### 10:00 - 10:15 {.keynote}
+##### Distribution of Problems among Participants - Forming Teams  {.cont}
+### Working Sessions
+#### 10:15 - 11:40 {.keynote}
+##### Fourth Group Session {.cont}
+#### 11:40 - 12:00 {.keynote}
+##### Gathering results of fourth session [Plenary Session], possibilities to switch groups {.cont}
+#### 12:00 - 14:00 {.break}  
+##### Break {.cont}
+#### 14:00 - 16:00 {.keynote}
+##### Fifth  Group Session {.cont}
+#### 16:00 - 16:20 {.keynote}
+##### Gathering Results of Fifth  Session [Plenary Session], possibilities to switch groups {.cont}
+#### 16:20 - 17:30 {.keynote}
+##### Sixth Group Session, Summarizing Results {.cont}
+#### 17:30 -  {.talk}
+##### Free Discussion {.cont}
+
+
 
 Lunches are not provided.
 
