@@ -36,7 +36,9 @@ This edition is piloting a two rounds system: The first round call aims to selec
 
 ## Submission
 
-Submission is through the EasyChair conference system, by following the [link](https://easychair.org/conferences/?conf=cpm2025). The submission process requires registration to create an EasyChair account prior to submission.
+Submission is through the EasyChair conference system, by following the [link](https://easychair.org/conferences/?conf=cpm2025). 
+The submission server will be open on September 26th.
+The submission process requires registration to create an EasyChair account prior to submission.
 
 ## Submission format
 
