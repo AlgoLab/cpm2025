@@ -52,7 +52,7 @@ Just before and after CPM 2025, there will be a StringMasters workshop on June 1
 The venue for StringMasters is TBA, at the University of Milano-Bicocca.
 
 The workshop is organized by Zsuzsanna Lipták and Golnaz Badkobeh. 
-You can reach the organizers at stringmasters.milano.2025@gmail.com
+You can reach the organizers at stringmasters.milano.2025 AT gmail.com
 
 ## Format and Purpose
 
