@@ -40,6 +40,7 @@ td { background-color: #c7fdb5; }
 .cont {
     display: inline;
     margin-top: -40px;
+    white-space: pre-line;
 
 }
 </style>
