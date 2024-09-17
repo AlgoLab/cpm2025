@@ -95,7 +95,7 @@ How to get to the venue/floor can be found on the CPM website.
 ### Plenary Introductory Session
 
 #### 09:30 - 09:35 {.keynote}
-Opening 
+##### Opening 
 
 #### 09:35 - 10:00 {.keynote}
 ##### Introduction of Open Problems 
@@ -112,7 +112,7 @@ Opening
 ##### Gathering First Results [Plenary Session], possibilities to switch groups 
 
 #### 12:00 - 14:00 {.break}  
-##### Break {.cont}<br>
+##### Break {.cont}
 
 #### 14:00 - 16:00 {.keynote}
 ##### Second Group Session 
