@@ -81,8 +81,7 @@ combinatorics on words, and applications, including but not restricted to:
 
 StringMasters welcomes participants with interest in any aspect of string algorithms, theoretical or applied.
 
-Participation is free
-but we ask that you register on the form below.
+Participation is free but we ask that you register on the form below.
 
 ## Venue
 
@@ -94,11 +93,11 @@ How to get to the venue/floor can be found on the CPM website.
 
 ### Plenary Introductory Session
 
-#### 09:30 - 09:35
+#### 09:30 - 09:35 {.keynote}
 ##### Opening {.cont}
 
 #### 09:35 - 10:00 {.keynote}
-##### Introduction of Open Problems {.cont}
+##### Introduction of Open Problems 
 
 #### 10:00 - 10:15 {.keynote}
 ##### Distribution of Problems among Participants - Forming Teams {.cont}
