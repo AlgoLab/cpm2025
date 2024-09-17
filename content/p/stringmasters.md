@@ -112,7 +112,7 @@ Opening
 ##### Gathering First Results [Plenary Session], possibilities to switch groups 
 
 #### 12:00 - 14:00 {.break}  
-##### Break {.cont}
+##### Break {.cont}<br>
 
 #### 14:00 - 16:00 {.keynote}
 ##### Second Group Session 
