@@ -101,30 +101,30 @@ How to get to the venue/floor can be found on the CPM website.
 ##### Introduction of Open Problems 
 
 #### 10:00 - 10:15 {.keynote}
-##### Distribution of Problems among Participants - Forming Teams {.cont}
+##### Distribution of Problems among Participants - Forming Teams
 
 ### Working Sessions
 
 #### 10:15 - 11:40 {.keynote}
-##### First Group Session {.cont}
+##### First Group Session 
 
 #### 11:40 - 12:00 {.keynote}
-##### Gathering First Results [Plenary Session], possibilities to switch groups {.cont}
+##### Gathering First Results [Plenary Session], possibilities to switch groups 
 
 #### 12:00 - 14:00 {.break}  
 ##### Break {.cont}
 
 #### 14:00 - 16:00 {.keynote}
-##### Second Group Session {.cont}
+##### Second Group Session 
 
 #### 16:00 - 16:20 {.keynote}
-##### Gathering Results of Second Session [Plenary Session], possibilities to switch groups {.cont}
+##### Gathering Results of Second Session [Plenary Session], possibilities to switch groups 
 
 #### 16:20 - 17:30 {.keynote}
-##### Third Group Session, Summarizing Results {.cont}
+##### Third Group Session, Summarizing Results 
 
 #### 17:30 -  {.talk}
-##### Free Discussion {.cont}
+##### Free Discussion 
 
 
 ## Friday June 20th
@@ -135,33 +135,33 @@ How to get to the venue/floor can be found on the CPM website.
 ##### Opening {.cont}
 
 #### 09:35 - 10:00 {.keynote}
-##### Recall of Monday's Problems and Introduction of New Open Problems {.cont}
+##### Recall of Monday's Problems and Introduction of New Open Problems 
 
 #### 10:00 - 10:15 {.keynote}
-##### Distribution of Problems among Participants - Forming Teams  {.cont}
+##### Distribution of Problems among Participants - Forming Teams 
 
 ### Working Sessions
 
 #### 10:15 - 11:40 {.keynote}
-##### Fourth Group Session {.cont}
+##### Fourth Group Session 
 
 #### 11:40 - 12:00 {.keynote}
-##### Gathering results of fourth session [Plenary Session], possibilities to switch groups {.cont}
+##### Gathering results of fourth session [Plenary Session], possibilities to switch groups 
 
 #### 12:00 - 14:00 {.break}  
-##### Break {.cont}
+##### Break 
 
 #### 14:00 - 16:00 {.keynote}
-##### Fifth  Group Session {.cont}
+##### Fifth  Group Session 
 
 #### 16:00 - 16:20 {.keynote}
-##### Gathering Results of Fifth  Session [Plenary Session], possibilities to switch groups {.cont}
+##### Gathering Results of Fifth  Session [Plenary Session], possibilities to switch groups 
 
 #### 16:20 - 17:30 {.keynote}
-##### Sixth Group Session, Summarizing Results {.cont}
+##### Sixth Group Session, Summarizing Results 
 
 #### 17:30 -  {.talk}
-##### Free Discussion {.cont}
+##### Free Discussion 
 
 
 
