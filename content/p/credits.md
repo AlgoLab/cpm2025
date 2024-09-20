@@ -1,5 +1,3 @@
 # Credits
 
-The photos in the website are:
-
-
+TBA
