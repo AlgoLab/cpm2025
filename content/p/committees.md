@@ -2,19 +2,18 @@
 
 ## Program Committee
 
-*  Paola Bonizzoni (University of Milano - Bicocca), **co-chair**
-*  Veli Mäkinen (University of Helsinki), **co-chair**
-
-## Steering Committee
-
-*  Amihood Amir (Bar-Ilan University, Israel)
-*  Inge Li Gørtz (Technical University of Denmark, Denmark)
-*  Roberto Grossi (University of Pisa, Italy)
-*  Jakub Radoszewski (University of Warsaw, Poland)
-*  Esko Ukkonen (University of Helsinki, Finland)
+TBA
 
 
 ## Organizing Committee
 
-*  Gianluca Della Vedova (University of Milano - Bicocca), **chair**
-
+*  Paola Bonizzoni (Univ. Milano-Bicocca)
+*  Simone Ciccolella (Univ. Milano-Bicocca)
+*  Davide Cozzi (Univ. Milano-Bicocca)
+*  Gianluca Della Vedova (Univ. Milano-Bicocca, **chair**)
+*  Younan Gao (Univ. Milano-Bicocca)
+*  Davide Monti (Univ. Milano-Bicocca)
+*  Yuri Pirola (Univ. Milano-Bicocca)
+*  Brian Riccardi (Univ. Milano-Bicocca)
+*  Raffaella Rizzi (Univ. Milano-Bicocca)
+*  Mattia Sgrò (Univ. Milano-Bicocca)
