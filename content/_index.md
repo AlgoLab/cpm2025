@@ -20,7 +20,7 @@ Schedule (TBD)
 
 ## Contact
 
-You can reach us by email at
+You can reach us by email at cpm2025@googlegroups.com
 
 ## Sponsored by
 
