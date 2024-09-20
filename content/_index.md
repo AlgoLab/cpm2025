@@ -24,4 +24,4 @@ You can reach us by email at cpm2025@googlegroups.com
 
 ## Sponsored by
 
-[![University of Milano-Bicocca](unimib.png)](https://www.unimib.it)  [![PANGAIA](pangaia-logo-trimmed.png)](https://www.pangenome.eu)
+[![University of Milano-Bicocca](unimib.png)](https://www.unimib.it) &nbsp;&nbsp; [![PANGAIA](pangaia-logo-trimmed.png)](https://www.pangenome.eu)
