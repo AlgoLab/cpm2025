@@ -1,9 +1,7 @@
 # Excursion
 
-Description
+TBA
 
 # Conference dinner
 
-Location of the conference dinner
-
-## Titetable
+TBA
