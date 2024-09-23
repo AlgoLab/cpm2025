@@ -2,6 +2,9 @@
 
 ## Program Committee
 
+*  Paola Bonizzoni (University of Milano -Bicocca, Italy), co-chair **co-chair**
+*  Veli Mäkinen (University of Helsinki, Finland), co-chair **co-chair**
+
 TBA
 
 
