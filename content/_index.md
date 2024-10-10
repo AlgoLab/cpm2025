@@ -14,6 +14,10 @@ See you in Milan next year!
 *  Author notification (tentative): **March 21, 2025**
 *  Conference: **June 17–19, 2025**
 
+## Submission
+
+Submission is through the [EasyChair conference system](https://easychair.org/conferences/?conf=cpm2025).
+
 ## Event schedule
 
 Schedule (TBD)
