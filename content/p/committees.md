@@ -17,7 +17,7 @@
 *  Shunsuke Inenaga (Kyushu University, Japan)
 *  Dominik Kempa (Stony Brook University, USA)
 *  Tomasz Kociumaka (Max Planck Institute for Informatics, Germany)
-*  Gregory Kucherov (Gustave Eiffel University, France)
+*  Gregory Kucherov (CNRS/Gustave Eiffel University, France)
 *  Avivit Levy (Shenkar College of Engineering, Design and Art, Israel)
 *  Veli Mäkinen (University of Helsinki, Finland),  **co-chair**
 *  Sabrina Mantaci (Università di Palermo, Italy)
