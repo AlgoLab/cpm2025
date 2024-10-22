@@ -3,7 +3,7 @@
 ## Program Committee
 
 *  Amihood Amir (Bar Ilan University, Israel)
-*  Hideo Bannai (Tokyo Medical and Dental University, Japan)
+*  Hideo Bannai (Institute of Science Tokyo, Japan)
 *  Giulia Bernardini (University of Trieste, Italy)
 *  Paola Bonizzoni (University of Milano -Bicocca, Italy),  **co-chair**
 *  Manuel Cáceres (Aalto University, Finland)
