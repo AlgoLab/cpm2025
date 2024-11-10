@@ -47,3 +47,12 @@
 *  Brian Riccardi (Univ. Milano-Bicocca)
 *  Raffaella Rizzi (Univ. Milano-Bicocca)
 *  Mattia Sgrò (Univ. Milano-Bicocca)
+
+## Steering Committee
+
+*  Amihood Amir (Bar-Ilan University, Israel)
+*  Inge Li Gørtz (Technical University of Denmark, Denmark)
+*  Roberto Grossi (University of Pisa, Italy)
+*  Jakub Radoszewski (University of Warsaw, Poland)
+*  Esko Ukkonen (University of Helsinki, Finland)
+
