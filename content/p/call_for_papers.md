@@ -4,6 +4,8 @@ Papers on original research unpublished elsewhere in all areas related to combin
 
 The proceedings will be published by LIPIcs (of Dagstuhl).
 
+A selection of the best papers will be invited to be submitted to Algorithmica
+
 ## Topics of Interest
 
 Papers are solicited on, but not limited to, the following topics:
@@ -22,7 +24,10 @@ Papers are solicited on, but not limited to, the following topics:
 
 ## Keynote speakers
 
-*  TBA
+*  Inge Li Gørtz (Technical University of Denmark, Denmark)
+*  Nicola Prezza (Ca’ Foscari University of Venice, Italy)
+*  Kunihiko Sadakane (Tokyo, University, Japan)
+
 
 ## Important dates
 
