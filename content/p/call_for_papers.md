@@ -33,8 +33,8 @@ Papers are solicited on, but not limited to, the following topics:
 
 This edition is piloting a two rounds system: The first round call aims to select half of the papers and the second round call the rest. Revised versions of the papers rejected in the first round call can be resubmitted in the second round call, competing with the solicited fresh submissions. 
 
-*  First round submission deadline: November 16, 2024 (AoE)
-*  Author notification: December 23, 2024
+*  ~~First round submission deadline: November 16, 2024 (AoE)~~
+*  ~~Author notification: December 23, 2024~~
 *  Second round submission deadline: February 21, 2025 (AoE)
 *  Author notification: March 21, 2025
 *  Conference: June 17-19, 2025
