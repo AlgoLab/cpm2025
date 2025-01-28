@@ -1008,14 +1008,15 @@ table {
 	border-left: 1px solid #ebebeb;
 }
 
-td,
-th {
-	padding: 5px 10px;
+td {
+	padding: 7px 10px;
 	border-right: 1px solid #ebebeb;
 	border-bottom: 1px solid #221188;
 }
 
 th {
+	padding: 12px 12px;
+	border-bottom: 1px solid #221188;
 	color: #221188;
 	font-weight: 700;
 }
