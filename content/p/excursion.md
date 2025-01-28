@@ -1,9 +1,10 @@
 # Excursion
-<!-- 
-{{% image "/como1.jpeg" "como lake" "max-width: 200px;" %}} &nbsp;&nbsp;
-{{% image "/como2.jpeg" "como lake" "max-width: 200px;" %}} <br>
-{{% image "/como3.jpeg" "sailing como lake" "max-width: 200px;" %}} &nbsp;&nbsp;
-{{% image "/como4.jpeg" "como lake at night" "max-width: 200px;" %}} -->
+
+
+{{% image "/como1.jpeg" "como lake" "max-width: 300px;" %}} &nbsp;&nbsp;
+{{% image "/como2.jpeg" "como lake" "max-width: 300px;" %}} <br>
+{{% image "/como3.jpeg" "sailing como lake" "max-width: 300px;" %}} &nbsp;&nbsp;
+{{% image "/como4.jpeg" "como lake at night" "max-width: 300px;" %}}
 
 <!-- {{< figure
   src="/como1.jpeg"
