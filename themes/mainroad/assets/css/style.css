@@ -65,10 +65,6 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
-.content-card img {
-    max-width: 80%;
-}
-
 .container {
 	position: relative;
 	width: 100%;
@@ -985,7 +981,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 /* Images / Video */
 img {
 	/*width: auto\9; /* ie8 */
-	max-width: 100%;
+	max-width: 50%;
 	height: auto;
 	vertical-align: bottom;
 }
