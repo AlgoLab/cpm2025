@@ -979,9 +979,9 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 /* Images / Video */
-.content-card img {
+img {
 	/*width: auto\9; /* ie8 */
-	max-width: 50%;
+	max-width: 100%;
 	height: auto;
 	vertical-align: bottom;
 }
