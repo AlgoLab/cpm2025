@@ -1013,6 +1013,7 @@ td {
 	padding: 7px 10px;
 	border-right: 1px solid #ebebeb;
 	border-bottom: 1px solid #8fa6ff;
+	color: #0000000c;
 }
 
 th {
@@ -1023,6 +1024,10 @@ th {
 }
 
 
+td.first {
+	color: #000000;
+
+}
 /* tbody { width:100%;background-color:#eee;border-collapse:collapse; } */
 /* table { width:100%;background-color:#eee;border-collapse:collapse; } */
 /* th { background-color:#000;color:white;width:50%; } */
