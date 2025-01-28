@@ -979,7 +979,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 /* Images / Video */
-img {
+.content-card img {
 	/*width: auto\9; /* ie8 */
 	max-width: 50%;
 	height: auto;
