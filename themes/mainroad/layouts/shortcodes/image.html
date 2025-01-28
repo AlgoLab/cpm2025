@@ -1,5 +1,4 @@
 <figure>
-    <img src="{{.Get 0}}" alt="{{.Get 1 | plainify}}"{{ with .Get 2 }} style="{{ . | safeCSS }}" {{ end }}>
-      <figcaption>{{.Get 1 | safeHTML }}</figcaption>
-    </figure>
-    <div class="debug">{{ .Get 2 }}</div>
+    <img src="{{.Get 0}}" alt="{{.Get 1 | plainify}}" style="{{ .Get 2 }}" {{ end }}>
+      <figcaption>{{.Get 1}}</figcaption>
+</figure>
