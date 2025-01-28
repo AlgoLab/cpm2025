@@ -1000,6 +1000,7 @@ video {
 
 table {
 	width: 100%;
+	text-align: center;
 	margin-bottom: 20px;
 	margin-bottom: 1.25rem;
 	border-spacing: 0;
@@ -1011,7 +1012,7 @@ table {
 td {
 	padding: 7px 10px;
 	border-right: 1px solid #ebebeb;
-	border-bottom: 1px solid #221188;
+	border-bottom: 1px solid #8fa6ff;
 }
 
 th {
