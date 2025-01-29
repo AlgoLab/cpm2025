@@ -14,12 +14,13 @@ table, th, td {
 
 td[rowspan]:not([rowspan="1"]) {
   vertical-align : middle;
-  -ms-transform: rotate(-60deg);
-  -webkit-transform: rotate(-60deg); 
-  -moz-transform: rotate(-60deg)
-  -o-transform: rotate(-60deg);
-  -sand-transform: rotate(-60deg);
-  transform: rotate(-60deg);
+  -ms-transform: rotate(-30deg);
+  -webkit-transform: rotate(-30deg);
+  -moz-transform: rotate(-30deg);
+  -o-transform: rotate(-30deg);
+  -sand-transform: rotate(-30deg);
+  transform: rotate(-30deg);
+  padding: 0px;
 }
 
 </style>
