@@ -11,6 +11,9 @@ table, th, td {
     text-align: center;
     padding: 20px 1px 20px 1px;
 }
+td, th {
+    vertical-align: middle;
+}
 
 </style>
 </br>
@@ -60,7 +63,7 @@ table, th, td {
   </tr>
   <tr>
     <td class="tg-c3ow">9.30</td>
-    <td class="tg-c3ow" rowspan="5">stringmasters</td>
+    <td class="tg-c3ow" rowspan="5" >stringmasters</td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
