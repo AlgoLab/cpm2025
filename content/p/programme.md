@@ -8,12 +8,18 @@
 
 <style type=text/css>
 table, th, td {
-    text-align: center;
-    padding: 20px 1px 20px 1px;
+  text-align: center;
+  padding: 20px 1px 20px 1px;
 }
 
 td[rowspan]:not([rowspan="1"]) {
-    vertical-align : middle;
+  vertical-align : middle;
+  -ms-transform: rotate(-60deg);
+  -webkit-transform: rotate(-60deg); 
+  -moz-transform: rotate(-60deg)
+  -o-transform: rotate(-60deg);
+  -sand-transform: rotate(-60deg);
+  transform: rotate(-60deg);
 }
 
 </style>
