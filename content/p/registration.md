@@ -32,4 +32,4 @@ We have hired [Promoest srl](https://www.promoest.com/en/) to manage the registr
 
 No other company is involved in CPM 2025, therefore any request originating from
 another source is not authorized. In this case, please (1) do not agree to their 
-requests and (2) inform us (mailto:cpm2025@googlegroups.com), so that we can inform everyone.
+requests and (2) inform [us](mailto:cpm2025@googlegroups.com), so that we can inform everyone.
