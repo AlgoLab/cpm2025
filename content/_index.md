@@ -3,7 +3,7 @@
 Welcome to the website of the 36th Annual Symposium on Combinatorial Pattern Matching (CPM 2025).
 The event will be held in Milano, Italy, June 17-19 2025.
 
-See you in Milan next year!
+See you in Milan!
 
 
 ## Important dates
