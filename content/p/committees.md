@@ -5,7 +5,7 @@
 *  Amihood Amir (Bar Ilan University, Israel)
 *  Hideo Bannai (Institute of Science Tokyo, Japan)
 *  Giulia Bernardini (University of Trieste, Italy)
-*  Paola Bonizzoni (University of Milano -Bicocca, Italy),  **co-chair**
+*  Paola Bonizzoni (University of Milano-Bicocca, Italy),  **co-chair**
 *  Manuel Cáceres (Aalto University, Finland)
 *  Bastien Cazaux (University of Lille, CNRS, France)
 *  Panagiotis Charalampopoulos (Birkbeck, University of London, UK)
@@ -33,20 +33,19 @@
 *  Philip Wellnitz (National Institute of Informatics, Japan)
 
 
-
-
 ## Organizing Committee
 
-*  Paola Bonizzoni (Univ. Milano-Bicocca)
-*  Simone Ciccolella (Univ. Milano-Bicocca)
-*  Davide Cozzi (Univ. Milano-Bicocca)
-*  Gianluca Della Vedova (Univ. Milano-Bicocca, **chair**)
-*  Younan Gao (Univ. Milano-Bicocca)
-*  Davide Monti (Univ. Milano-Bicocca)
-*  Yuri Pirola (Univ. Milano-Bicocca)
-*  Brian Riccardi (Univ. Milano-Bicocca)
-*  Raffaella Rizzi (Univ. Milano-Bicocca)
-*  Mattia Sgrò (Univ. Milano-Bicocca)
+*  Paola Bonizzoni (University of Milano-Bicocca, Italy)
+*  Simone Ciccolella (University of Milano-Bicocca, Italy)
+*  Davide Cozzi (University of Milano-Bicocca, Italy)
+*  Gianluca Della Vedova (University of Milano-Bicocca, Italy), **chair**
+*  Victor Epain (University of Milano-Bicocca, Italy)
+*  Younan Gao (University of Milano-Bicocca, Italy)
+*  Davide Monti (University of Milano-Bicocca, Italy)
+*  Yuri Pirola (University of Milano-Bicocca, Italy)
+*  Brian Riccardi (University of Milano-Bicocca, Italy)
+*  Raffaella Rizzi (University of Milano-Bicocca, Italy)
+*  Mattia Sgrò (University of Milano-Bicocca, Italy)
 
 ## Steering Committee
 
