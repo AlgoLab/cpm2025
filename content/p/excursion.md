@@ -14,10 +14,10 @@ the lake.
 * 23.30: estimated arrival in Milan.
 
 ### Photos
-{{% image "/como2.jpeg" "como lake" "max-width: 300px;" %}} &nbsp;&nbsp; {{% image "/como3.jpeg" "sailing como lake" "max-width: 300px;" %}}
+{{% image "/como2.jpeg" "como lake" "max-width: 300px;" %}} &nbsp;&nbsp; {{% image "/como5.jpeg" "sailing como lake" "max-width: 300px;" %}}
 </br>
 </br>
-{{% image "/como4.jpeg" "como lake at night" "max-width: 300px;" %}}&nbsp;&nbsp; {{% image "/como1.jpeg" "como lake" "max-width: 300px;" %}}
+{{% image "/como6.jpeg" "como lake at night" "max-width: 300px;" %}}&nbsp;&nbsp; {{% image "/como1.jpeg" "como lake" "max-width: 300px;" %}}
 
 <!-- {{< figure
   src="/como1.jpeg"
