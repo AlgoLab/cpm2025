@@ -14,7 +14,8 @@ list = "right"  # Configure layout for list pages
 widgets = ["sidebar_menu"]
 single = false
 
-[markup]
+
+[markup] # NEEDED for tables and images (html rendering)
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
