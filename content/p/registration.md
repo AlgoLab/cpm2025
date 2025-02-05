@@ -1,12 +1,12 @@
 # Registration
 
-Registrations will open soon.
+Registration is [open](https://www.cpm2025.promoest.com/hp.aspx).
 
 By registering to the conference, you agreed to the [Code of conduct](https://cpm2025.pangenome.eu/CoC.pdf).
 At least one author for each accepted paper should register and present at the conference.
 One registration can cover at most one paper.
 
-The registration site will ask you register, so that you will be able to
+The [registration site]](https://www.cpm2025.promoest.com/hp.aspx) will ask you register, so that you will be able to
 complete the procedure at a later stage, if needed, and to obtain a receipt of your registration fee.
 
 ## Registration fees
@@ -21,6 +21,7 @@ complete the procedure at a later stage, if needed, and to obtain a receipt of y
 *  regular: 450€
 *  student: 330€
 
+[Registration site]](https://www.cpm2025.promoest.com/hp.aspx)
     
 Registration fees will cover publication costs as well as technical talks,
 coffee breaks, lunches, the conference banquet and excursion
