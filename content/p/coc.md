@@ -18,7 +18,7 @@ Activities”, available at
 
 [https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment](https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment)
 
-A downloadble pdf of this document is [available here](https://cpm2025.pangenome.eu/coc.pdf).
+A downloadble pdf of this document is [available here](/coc.pdf).
 
 It is shared with registered participants of the CPM 2025 conference, in the context of the
 SafeToC initiative. The open exchange of ideas is central to the CPM 2025 conference. This
