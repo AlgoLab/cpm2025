@@ -10,8 +10,9 @@ See you in Milan!
 
 *  ~~First round submission deadline: **November 16, 2024 (AoE)**~~
 *  ~~Author notification: **December 23, 2024**~~
-*  Second round submission deadline: **February 21, 2025 (AoE)**
-*  Author notification: **March 21, 2025**
+*  ~~Second round submission deadline: **February 21, 2025 (AoE)**~~
+*  Author notification: ~~March 21, 2025~~ **March 31, 2025** (new date)
+*  Camera-ready due:  **April 14, 2025**
 *  Conference: **June 17–19, 2025**
 
 ## Submission
