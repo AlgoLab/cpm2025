@@ -3,7 +3,7 @@
 
 ###  [Inge Li Gørtz](https://www.imm.dtu.dk/~inge/) (Technical University of Denmark, Denmark)
 
-![Inge Li Gørtz photo](https://www.imm.dtu.dk/~inge/inge-wb.jpeg)
+![Inge Li Gørtz photo](https://www.imm.dtu.dk/~inge/inge-wb.jpeg {width='180'})
 
 #### Title: TBA
 
@@ -14,7 +14,8 @@ TBA
 
 ###  [Nicola Prezza](https://unive.it/data/persone/24170321) (Ca’ Foscari University of Venice, Italy)
 
-![Nicola Prezza photo](https://www.unive.it/pag/fileadmin/user_upload/img/persone/24170321.jpg)
+![Nicola Prezza
+photo](https://www.unive.it/pag/fileadmin/user_upload/img/persone/24170321.jpg {width='180'})
 
 #### Title: Suffixient Arrays: a new Efficient Suffix Array Compression Technique
 
@@ -44,7 +45,7 @@ Kim, Giovanni Manzini, and Francisco Olivares.
 
 ###  [Kunihiko Sadakane}(https://www.u-tokyo.ac.jp/focus/en/people/people100467.html) (The University of Tokyo, Japan)
 
-![Kunihiko Sadakane photo](https://researchmap.jp/sada/avatar.JPG)
+![Kunihiko Sadakane photo](https://researchmap.jp/sada/avatar.JPG {width='180'})
 
 
 #### Title:  Compressed Suffix Arrays and Suffix Trees Revisited
