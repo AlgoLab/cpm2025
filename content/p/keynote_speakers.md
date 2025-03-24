@@ -44,8 +44,7 @@ complexity. In practice, on repetitive DNA collections sA is simultaneously (i)
 faster and orders of magnitudes smaller than SA and (ii) smaller and orders of
 magnitude faster than the r-index (the state-of-the-art CSA for highly
 repetitive data). These results should come at no surprise: the BWT is the I/O
-bottleneck of CSA. To recover the time-efficiency of Suffix Arrays, it is suffi
-(x)ient to completely remove the BWT and replace it with binary search on a
+bottleneck of CSA. To recover the time-efficiency of Suffix Arrays, it is suffi(x)ient to completely remove the BWT and replace it with binary search on a
 plain array (sA).
 
 Based on joint work with Davide Cenzato, Lore Depuydt, Travis Gagie, Sung-Hwan
