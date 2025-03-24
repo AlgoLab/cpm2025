@@ -16,7 +16,7 @@ img {
 
 #### Title: TBA
 
-*Abstract:*
+**Abstract:**
 
 TBA
 
@@ -27,7 +27,7 @@ TBA
 
 #### Title: Suffixient Arrays: a new Efficient Suffix Array Compression Technique
 
-*Abstract:*
+**Abstract:**
 
 Compressed Suffix Arrays (CSA) have been introduced to reduce the space usage
 of classic Suffix Arrays (SA), but at a big price: very poor cache locality at
@@ -58,7 +58,7 @@ Kim, Giovanni Manzini, and Francisco Olivares.
 
 #### Title:  Compressed Suffix Arrays and Suffix Trees Revisited
 
-*Abstract:*
+**Abstract:**
 
 Compressed suffix arrays and compressed suffix trees [Grossi, Vitter 2000, 2005]
 are compressed data structures for string matching. These are linear
