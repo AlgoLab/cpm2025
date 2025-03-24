@@ -1,3 +1,12 @@
+<style type=text/css>
+img {
+	width: auto\9; /* ie8 */
+	max-width: 200px;
+	height: auto;
+	vertical-align: bottom;
+}
+</style>
+
 # Keynote speakers
 
 
