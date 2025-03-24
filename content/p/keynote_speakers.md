@@ -51,7 +51,7 @@ plain array (sA).
 Based on joint work with Davide Cenzato, Lore Depuydt, Travis Gagie, Sung-Hwan
 Kim, Giovanni Manzini, and Francisco Olivares.
 
-###  [Kunihiko Sadakane}(https://www.u-tokyo.ac.jp/focus/en/people/people100467.html) (The University of Tokyo, Japan)
+###  [Kunihiko Sadakane](https://www.u-tokyo.ac.jp/focus/en/people/people100467.html) (The University of Tokyo, Japan)
 
 ![Kunihiko Sadakane photo](https://researchmap.jp/sada/avatar.JPG)
 
