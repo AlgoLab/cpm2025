@@ -13,6 +13,7 @@ img {
 ###  [Inge Li Gørtz](https://www.imm.dtu.dk/~inge/) (Technical University of Denmark, Denmark)
 
 ![Inge Li Gørtz photo](https://www.imm.dtu.dk/~inge/inge-wb.jpeg)
+Photo: Bax Lindhardt
 
 #### Title: TBA
 
