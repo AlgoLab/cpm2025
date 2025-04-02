@@ -53,6 +53,7 @@ Abstract TBA
 #### 12:00-14:00 {.break}
 ##### Lunch {.cont}
 
+
 ### Lecture 3
 #### 14:00-17:00 {.keynote}
 ##### Giulia Punzi, Exploring the Relationships between Graph and String Problems {.cont}
