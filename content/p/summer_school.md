@@ -33,7 +33,7 @@ University of Milan-Bicocca, U14-ABACUS building on [Open Street Map](https://ww
 ## Tentative schedule
 
 
-## Thursday June 12th
+## Thursday, June 12th
 
 ### Lecture 1
 #### 14:00-17:00 {.keynote}
@@ -41,7 +41,7 @@ University of Milan-Bicocca, U14-ABACUS building on [Open Street Map](https://ww
 
 Abstract TBA
 
-## Friday June 13th
+## Friday, June 13th
 
 ### Lecture 2
 #### 9:00-12:00 {.keynote}
