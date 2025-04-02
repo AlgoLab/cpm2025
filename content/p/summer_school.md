@@ -20,9 +20,9 @@ Friday of the week before the conference.
 
 ## Speakers
 
-*  Jonas Ellert. Approximate Pattern Matching 101.
-*  Hideo Bannai. Dictionary Compression and Repetitiveness Measures.
-*  Giulia Punzi. Exploring the Relationships between Graph and String Problems.
+*  Jonas Ellert, École Normale Supérieure, Paris.
+*  Hideo Bannai, Kyushu University.
+*  Giulia Punzi, Università di Pisa.
 
 ## Location
 
