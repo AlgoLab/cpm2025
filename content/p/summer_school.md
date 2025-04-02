@@ -38,7 +38,8 @@ You can also check directions on [Google Maps](https://maps.app.goo.gl/Y4wqzV8Vg
 
 ### Lecture 1
 #### 14:00-17:00 {.keynote}
-##### Jonas Ellert, Approximate Pattern Matching 101 {.cont}
+##### Jonas Ellert,
+Approximate Pattern Matching 101 {.cont}
 
 Abstract TBA
 
