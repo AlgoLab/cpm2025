@@ -36,7 +36,7 @@ University of Milan-Bicocca, U14-ABACUS building on [Open Street Map](https://ww
 
 ### Lecture 1
 #### 14:00-17:00 {.keynote}
-##### Jonas Ellert, Approximate Pattern Matching 101 {.cont}
+##### Approximate Pattern Matching 101 (Jonas Ellert) {.cont}
 
 Abstract TBA
 
