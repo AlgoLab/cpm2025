@@ -21,7 +21,7 @@ Friday of the week before the conference.
 ## Speakers
 
 *  Jonas Ellert, École Normale Supérieure, Paris.
-*  Hideo Bannai, Kyushu University.
+*  Hideo Bannai, Kyushu University, Fukuoka.
 *  Giulia Punzi, University of Pisa.
 
 ## Location
