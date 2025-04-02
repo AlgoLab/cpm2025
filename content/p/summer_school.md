@@ -15,7 +15,7 @@ td { background-color: #c7fdb5; }
 
 # Summer school
 
-The CPM summer school will take place on **June 12 and 13**, which are Thursday and
+The CPM summer school will take place **on June 12 and 13**, which are Thursday and
 Friday of the week before the conference.
 
 ## Speakers
