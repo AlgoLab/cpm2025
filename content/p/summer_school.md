@@ -44,7 +44,7 @@ Abstract TBA
 
 ### Lecture 2
 #### 9:00-12:00 {.keynote}
-##### Hideo Bannai, Dictionary Compression and Repetitiveness Measures {.cont}
+##### Dictionary Compression and Repetitiveness Measures (Hideo Bannai) {.cont}
 
 Abstract TBA
 
@@ -53,6 +53,6 @@ Abstract TBA
 
 ### Lecture 3
 #### 14:00-17:00 {.keynote}
-##### Giulia Punzi, Exploring the Relationships between Graph and String Problems {.cont}
+##### Exploring the Relationships between Graph and String Problems (Giulia Punzi) {.cont}
 
 Abstract TBA
