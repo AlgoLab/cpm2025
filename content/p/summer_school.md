@@ -32,6 +32,7 @@ University of Milan-Bicocca, U14-ABACUS building on [Open Street Map](https://ww
 
 ## Tentative schedule
 
+<div style="text-align: right;">
 ### Thursday, June 12th
 
 #### Lecture1  
@@ -39,6 +40,7 @@ University of Milan-Bicocca, U14-ABACUS building on [Open Street Map](https://ww
 ##### Approximate Pattern Matching 101 (Jonas Ellert) {.cont}
 
 Abstract TBA
+</div>
 
 ### Friday, June 13th
 
