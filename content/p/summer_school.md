@@ -50,8 +50,7 @@ Abstract TBA
 Abstract TBA
 
 #### 12:00-14:00 {.break}
-##### Lunch {.cont}<br>
-
+##### Lunch {.cont}
 
 ### Lecture 3
 #### 14:00-17:00 {.keynote}
