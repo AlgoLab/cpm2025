@@ -47,7 +47,7 @@ Abstract TBA
 Abstract TBA
 
 #### 12:00-14:00 {.break}
-##### Lunch {.cont}  
+##### Lunch {.cont}
 
 
 
