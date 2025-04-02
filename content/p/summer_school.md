@@ -20,9 +20,9 @@ Friday of the week before the conference.
 
 ## Speakers
 
-*  Jonas Ellert. Pattern matching with k mismatches.
-*  Hideo Bannai. Dictionary compression and repetitiveness measures.
-*  Giulia Punzi. 
+*  Jonas Ellert. Approximate Pattern Matching 101.
+*  Hideo Bannai. Dictionary Compression and Repetitiveness Measures.
+*  Giulia Punzi. Exploring the Relationships between Graph and String Problems
 
 ## Location
 
