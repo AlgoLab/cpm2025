@@ -22,7 +22,7 @@ Friday of the week before the conference.
 
 *  Jonas Ellert, École Normale Supérieure, Paris.
 *  Hideo Bannai, Kyushu University.
-*  Giulia Punzi, Università di Pisa.
+*  Giulia Punzi, University of Pisa.
 
 ## Location
 
