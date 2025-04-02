@@ -22,7 +22,7 @@ Friday of the week before the conference.
 
 *  Jonas Ellert. Approximate Pattern Matching 101.
 *  Hideo Bannai. Dictionary Compression and Repetitiveness Measures.
-*  Giulia Punzi. Exploring the Relationships between Graph and String Problems
+*  Giulia Punzi. Exploring the Relationships between Graph and String Problems.
 
 ## Location
 
@@ -38,7 +38,7 @@ You can also check directions on [Google Maps](https://maps.app.goo.gl/Y4wqzV8Vg
 
 ### Lecture 1
 #### 14:00-17:00 {.keynote}
-##### Jonas Ellert, title {.cont}
+##### Jonas Ellert, Approximate Pattern Matching 101 {.cont}
 
 Abstract TBA
 
@@ -46,7 +46,7 @@ Abstract TBA
 
 ### Lecture 2
 #### 9:00-12:00 {.keynote}
-##### Hideo Bannai, title {.cont}
+##### Hideo Bannai, Dictionary Compression and Repetitiveness Measures {.cont}
 
 Abstract TBA
 
@@ -55,6 +55,6 @@ Abstract TBA
 
 ### Lecture 3
 #### 14:00-17:00 {.keynote}
-##### Giulia Punzi, title {.cont}
+##### Giulia Punzi, Exploring the Relationships between Graph and String Problems {.cont}
 
 Abstract TBA
