@@ -34,11 +34,13 @@ University of Milan-Bicocca, U14-ABACUS building on [Open Street Map](https://ww
 
 ### Thursday, June 12th
 
+<div style="margin-left: 50px;">
 #### Lecture1  
 #### 14:00-17:00 {.keynote}
 ##### Approximate Pattern Matching 101 (Jonas Ellert) {.cont}
 
 Abstract TBA
+</div>
 
 ### Friday, June 13th
 
