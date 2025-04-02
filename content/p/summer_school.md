@@ -34,12 +34,16 @@ University of Milan-Bicocca, U14-ABACUS building on [Open Street Map](https://ww
 
 ### Thursday, June 12th
 
+#### Lecture1  
+
 #### 14:00-17:00 {.keynote}
 ##### Approximate Pattern Matching 101 (Jonas Ellert) {.cont}
 
 Abstract TBA
 
 ### Friday, June 13th
+
+#### Lecture2  
 
 #### 9:00-12:00 {.keynote}
 ##### Dictionary Compression and Repetitiveness Measures (Hideo Bannai) {.cont}
@@ -49,7 +53,7 @@ Abstract TBA
 #### 12:00-14:00 {.break}
 ##### Lunch {.cont}
 
-
+#### Lecture3  
 
 #### 14:00-17:00 {.keynote}
 ##### Exploring the Relationships between Graph and String Problems (Giulia Punzi) {.cont}
