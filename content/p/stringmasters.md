@@ -84,9 +84,15 @@ StringMasters welcomes participants with interest in any aspect of string algori
 
 Participation is free but we ask that you register on the form below.
 
-## Venue
+## Location
 
-How to get to the venue/floor can be found on the CPM website.
+University of Milan-Bicocca, U14-ABACUS building [![map](/map-u14.jpg)](https://www.openstreetmap.org/way/23154089#map=19/45.523734/9.219992) 
+
+You can also check directions on [Google Maps](https://maps.app.goo.gl/Y4wqzV8Vgr8JnMB26) and [Apple Maps](https://maps.apple.com/?address=Viale%20Sarca%20336,%2020126%20Milano,%20Italia&auid=10195625695833040895&ll=45.523623,9.219530&lsp=9902&q=Dipartimento%20di%20Informatica,%20Sistemistica%20e%20Comunicazione%20DISCo&t=r).
+
+## Registration
+
+The registration deadline is June 10th. [Registration form](https://framaforms.org/cpm-2025-stringmasters-1743620470)
 
 ## Programme
 
