@@ -36,6 +36,8 @@ You can also check directions on [Google Maps](https://maps.app.goo.gl/Y4wqzV8Vg
 
 The registration deadline is June 10th. [Registration form](https://framaforms.org/cpm-2025-summer-school-1743617612)
 
+The school is organized by Giulia Bernardini (giulia.bernardini[at]unimi.it), Gabriele Fici (gabriele.fici[at]unipa.it) and Raffaella Rizzi (raffaella.rizzi[at]unimib.it)
+
 ## Tentative schedule
 
 ### Thursday, June 12th
