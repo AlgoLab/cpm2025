@@ -12,7 +12,7 @@ with Length Constraints is Undecidable_
 queries_
 *  Cyril Nicaud, Carine Pivoteau, Stéphane Vialette. _Branch Prediction Analysis
 of Morris-Pratt and Knuth-Morris-Pratt Algorithms_
-*  Solon Pissis, Jakub Radoszewski Wiktor Zuba, Pawel Gawrychowski, Adam Górkiewicz, Pola Marciniak, Karol Pokorski. _Faster Approximate Elastic-Degenerate String Matching_
+*  Solon Pissis, Jakub Radoszewski Wiktor Zuba (part A); Pawel Gawrychowski, Adam Górkiewicz, Pola Marciniak, Solon Pissis, Karol Pokorski (part B). _Faster Approximate Elastic-Degenerate String Matching_
 *  Yuto Iguchi, Ryo Yoshinaka, Ayumi Shinohara. _Pattern Matching on Run-Length
 Grammar-Compressed Strings in Linear Time_
 *  Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria
