@@ -20,7 +20,7 @@ Friday of the week before the conference.
 
 ## Speakers
 
-*  **Hideo Bannai**, Kyushu University, Fukuoka.
+*  **Hideo Bannai**, Institute of Science Tokyo.
 *  **Jonas Ellert**, École Normale Supérieure, Paris.
 *  **Giulia Punzi**, University of Pisa.
 
