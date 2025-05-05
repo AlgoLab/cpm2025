@@ -61,7 +61,8 @@ The lecture is aimed at students at all levels.
 #### Lecture2  
 #### 9:00-12:00 {.keynote}
 
-##### Dictionary Compression and Repetitiveness Measures (Hideo Bannai)
+##### Dictionary Compression and Repetitiveness Measures
+(Hideo Bannai)
 
 Dictionary compression is a family of compression methods that essentially represent data using “copy and paste” operations. This includes well-known methods such as LZ77, grammar-based compressors, and run-length compressed BWT. Compared to statistical methods, dictionary compressors can be more effective at modeling highly repetitive data, such as collections of genome sequences from the same species.
 
