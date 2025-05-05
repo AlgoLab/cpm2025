@@ -77,5 +77,4 @@ In this talk, I will give a (biased) survey of various dictionary compression me
 
 
 Graphs are a fundamental tool in computer science, providing a versatile model of relationships between entities. The need to combine string problems with graph-theoretic approaches is becoming increasingly important, as information is often textual yet interconnected in a graph-representable way. Notable examples of this interplay include the World Wide Web graph, pangenome graphs, and automata theory.
-
 In this lecture, we focus on a specific graph data structure used to encode string information: deBruijn graphs. Such graphs have been classically used in bioinformatics for genome sequence assembly applications. The nodes of a dBG represent the k-mers (length-k substrings) of an input text, while (directed) edges indicate overlaps of length k-1. We will introduce useful properties of deBruijn graphs, and show how some string-related problems can be approached through graph algorithms on dBGs.
