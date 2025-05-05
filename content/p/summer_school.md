@@ -44,6 +44,7 @@ The school is organized by Giulia Bernardini (giulia.bernardini[at]unimi.it), Ga
 
 #### Lecture1  
 #### 14:00-17:00 {.keynote}
+
 ##### Approximate Pattern Matching 101 (Jonas Ellert)
 
 
