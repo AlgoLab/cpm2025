@@ -60,6 +60,7 @@ The lecture is aimed at students at all levels.
 
 #### Lecture2  
 #### 9:00-12:00 {.keynote}
+
 ##### Dictionary Compression and Repetitiveness Measures (Hideo Bannai)
 
 Dictionary compression is a family of compression methods that essentially represent data using “copy and paste” operations. This includes well-known methods such as LZ77, grammar-based compressors, and run-length compressed BWT. Compared to statistical methods, dictionary compressors can be more effective at modeling highly repetitive data, such as collections of genome sequences from the same species.
@@ -73,6 +74,7 @@ In this talk, I will give a (biased) survey of various dictionary compression me
 
 #### Lecture3  
 #### 14:00-17:00 {.keynote}
+
 ##### Exploring the Relationships between Graph and String Problems (Giulia Punzi)
 
 Graphs are a fundamental tool in computer science, providing a versatile model of relationships between entities. The need to combine string problems with graph-theoretic approaches is becoming increasingly important, as information is often textual yet interconnected in a graph-representable way. Notable examples of this interplay include the World Wide Web graph, pangenome graphs, and automata theory.
