@@ -13,7 +13,7 @@ td { background-color: #c7fdb5; }
 .cont    { display: inline; margin-top: -40px;}
 </style>
 
-# Summer school
+# Summer School on String Algorithms
 
 The CPM summer school will take place **on June 12 and 13**, which are Thursday and
 Friday of the week before the conference.
