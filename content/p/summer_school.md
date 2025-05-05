@@ -26,7 +26,7 @@ Friday of the week before the conference.
 
 ## Location
 
-University of Milan-Bicocca, U14-ABACUS building
+University of Milano-Bicocca, ABACUS Building (U14 Building)
 [![map](/map-u14.jpg)](https://www.openstreetmap.org/way/23154089#map=19/45.523734/9.219992).
 Click on the map for a larger map.
 
