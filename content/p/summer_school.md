@@ -47,7 +47,6 @@ The school is organized by Giulia Bernardini (giulia.bernardini[at]unimi.it), Ga
 
 ##### Approximate Pattern Matching 101 (Jonas Ellert) {.cont}
 
-&nbsp;
 Approximate pattern matching is a fundamental problem in string algorithmics. One version of this problem asks for approximate pattern occurrences with a small number of mismatches (i.e., with low Hamming distance). For example, the pattern "SummerIsCool" occurs in "CPM-SummerSchool-2025" with three mismatches. In this lecture, we consider offline algorithms that, given a pattern of length m, a text of length n, and an integer threshold k, find all approximate pattern occurrences with at most k mismatches. We delve into the most common techniques used by such algorithms, e.g.:
 
 - using FFT to achieve O(n log m) time for constant alphabet,
