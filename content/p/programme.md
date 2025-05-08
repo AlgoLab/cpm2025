@@ -74,7 +74,7 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | :--- |
-|  | <div class="table--bg--green">Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited</div> |
+|  | <div class="table--bg--yellow">Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited</div> |
   
 
 #### 10:00 - 10:20: Coffee break {.break}
@@ -128,8 +128,10 @@ td { background-color: #c7fdb5; }
 
 #### 09:00 - 10:00 Keynote Talk 2 <div class="chair">(Chair: Veli Mäkinen)</div> {.keynote}
 
-#### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique {.keynote}
-  
+| <a></a> | <a></a> |
+| --- | :--- |
+|  | <div class="table--bg--yellow">Nicola Prezza.<br> Suffixient Arrays: a new Efficient Suffix Array Compression Technique</div> |
+
 #### 10:00 - 10:20: Coffee break {.break}
 
 #### 10:20 - 10:40: Contributed talks 4 [indexing] <div class="chair">(Chair: NN)</div> {.talk}
@@ -150,9 +152,10 @@ td { background-color: #c7fdb5; }
 ## Thursday June 19th
 
 #### 09:00 - 10:00 Keynote Talk 3 <div class="chair">(Chair: Gianluca Della Vedova)</div> {.keynote}
+| <a></a> | <a></a> |
+| --- | :--- |
+|  | <div class="table--bg--yellow">Inge Li Gørtz.<br> Locality Sensitive Hashing and Compressed Computation</div> |
  
-#### Inge Li Gørtz. Locality Sensitive Hashing and Compressed Computation {.keynote}
-  
 #### 10:00 - 10:20: Coffee break {.break}
   
 #### 10:20 - 12:00 Contributed talks 5 [space optimization] <div class="chair">(Chair: NN)</div> {.talk}
