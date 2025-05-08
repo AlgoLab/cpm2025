@@ -72,9 +72,9 @@ td { background-color: #c7fdb5; }
   
 #### 09:00 - 10:00 Keynote Talk 1 <div class="chair">(Chair: Paola Bonizzoni)</div> {.keynote}
 
-| <a></a> | <a></a> |
+| <div class="table--bg--yellow"><a></a></div> | <div class="table--bg--yellow"><a></a></div> |
 | --- | :--- |
-| <a></a> | <div class="table--bg--yellow">Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited</div> |
+| <div class="table--bg--yellow"></div> | <div class="table--bg--yellow">Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited</div> |
   
 
 #### 10:00 - 10:20: Coffee break {.break}
