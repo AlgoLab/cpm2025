@@ -59,14 +59,15 @@ td { background-color: #c7fdb5; }
 
 
 
-#### 09:00 - 10:00 {.keynote}
 #### Keynote talk 1 (Chair: Paola Bonizzoni)
+
+#### 09:00 - 10:00 {.keynote}
 ### Kunihiko Sadakane.  {.cont}
-Compressed Suffix Arrays and Suffix Trees Revisited
+### Compressed Suffix Arrays and Suffix Trees Revisited  {.cont}
 
 ### Contributed talks 1 [combinatorics] (Chair: TBD)
 
-| :--- | --- | --- |
+| --- | --- | --- |
 | 10:20-10:40 | Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
 | 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci. |
 | 11:00-11:20 | A Family of Partial Cubes with Minimal Fibonacci Dimension |
