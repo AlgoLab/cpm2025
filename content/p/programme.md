@@ -56,7 +56,7 @@ td { padding:2px;
   display:inline;
 }
 .day {
-	margin-top: 14px; 
+	margin-top: 50px; 
 }
 </style>
 
