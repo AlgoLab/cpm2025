@@ -130,7 +130,7 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | :--- |
-|  | <div class="table--bg--yellow">Nicola Prezza.<br> Suffixient Arrays: a new Efficient Suffix Array Compression Technique</div> |
+| .  | <div class="table--bg--yellow">Nicola Prezza.<br> Suffixient Arrays: a new Efficient Suffix Array Compression Technique</div> |
 
 #### 10:00 - 10:20: Coffee break {.break}
 
