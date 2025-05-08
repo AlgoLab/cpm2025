@@ -10,7 +10,11 @@ table {
   border-collapse:collapse;
   border-radius: 6px; 
 }
-th { background-color:#c7fdb5;padding:1px;border:2px solid #ddeeff;font-size: 16px; }
+th { 
+  background-color:#c7fdb5;
+  padding:1px;
+  font-size: 16px; 
+}
 td { padding:0px; }
 td { background-color: #c7fdb5; }
 .table--bg--red {
