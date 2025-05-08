@@ -55,6 +55,9 @@ td { padding:2px;
   font-weight: normal;
   display:inline;
 }
+.day {
+	margin-top: 14px; 
+}
 </style>
 
 # Programme
@@ -116,7 +119,7 @@ td { padding:2px;
 
 #### 17:15 - 18:15: Business meeting {.break}
 	
-## Wednesday June 18th
+## Wednesday June 18th {.day}
 
 
 #### 09:00 - 10:00 Keynote Talk 2 <div class="chair">(Chair: Veli Mäkinen)</div> {.keynote}
@@ -138,8 +141,7 @@ td { padding:2px;
 #### 13:00 - 18:30: Excursion {.break}
 #### 18:30 - 21:00: Conference dinner {.break}
 
-	
-## Thursday June 19th
+## Thursday June 19th {.day}
 
 #### 09:00 - 10:00 Keynote Talk 3 <div class="chair">(Chair: Gianluca Della Vedova)</div> {.keynote}
 ##### Inge Li Gørtz.<br> Locality Sensitive Hashing and Compressed Computation {.keynote2}
