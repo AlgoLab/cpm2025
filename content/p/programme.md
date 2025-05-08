@@ -53,16 +53,14 @@ td { background-color: #c7fdb5; }
 
   
 #### 09:00 - 10:00 Keynote Talk 1 {.keynote}
-###### (Chair: Paola Bonizzoni)  {.cont}
+###### (Chair: Paola Bonizzoni)
  
 #### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited
   
 
-#### 10:00 - 10:20 {.break}
-##### Coffee break {.cont}
+#### 10:00 - 10:20: Coffee break {.break}
   
-#### 10:20 - 12:20 {.talk}
-### Contributed talks 1 [combinatorics] (Chair: TBD) {.cont}
+#### 10:20 - 12:20: Contributed talks 1 [combinatorics] (Chair: TBD) {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -74,19 +72,16 @@ td { background-color: #c7fdb5; }
 | 11:40-12:00 | Peaker Guo, Kaisei Kishi.  Net Occurrences in Fibonacci and Thue-Morse Words |
 
 
-#### 12:00 - 13:00 {.break}
-##### Lunch break {.cont}
+#### 12:00 - 13:00: Lunch break {.break}
   
-#### 13:30 - 14:00 {.talk}
-### Highlight Talk 1 (Chair: NN)
+#### 13:30 - 14:00: Highlight Talk 1 (Chair: NN) {.talk}
 	
 | <a></a> | <a></a> |
 | --- | --- | --- |
 | 13:30 - 14:00 | Michal Koucký. Almost Linear Size Edit Distance Sketch (STOC 2024) |
 
 
-#### 14:00 - 15:00 {.talk}
-### Contributed talks 2 [graphs and automata] (Chair: NN) {.cont}
+#### 14:00 - 15:00: Contributed talks 2 [graphs and automata] (Chair: NN)  {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -94,11 +89,9 @@ td { background-color: #c7fdb5; }
 | 14:20 - 14:40 | Wiktor Zuba, Oded Lachish, Solon Pissis. Shortest Undirected Paths in de Bruijn Graphs"
 | 14:40 - 15:00 | Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni. Encoding Co-Lex Orders of Finite-State Automata in Linear Space"
 	
-#### 15:00 - 15:30 {.break}
-##### Coffee break {.cont}
+#### 15:00 - 15:30: Coffee break {.break}
   
-#### 15:30 - 17:00 {.talk}
-### Contributed talks 3 [matching and comparison] (Chair: NN) {.cont}
+#### 15:30 - 17:00: Contributed talks 3 [matching and comparison] (Chair: NN) {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -120,11 +113,9 @@ td { background-color: #c7fdb5; }
  
 #### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique
   
-#### 10:00 - 10:20 {.break}
-##### Coffee break {.cont}
+#### 10:00 - 10:20: Coffee break {.break}
 	
-#### 10:20 - 10:40 {.talk}
-### Contributed talks 4 [indexing] (Chair: NN)" {.cont}
+#### 10:20 - 10:40: Contributed talks 4 [indexing] (Chair: NN) {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -148,11 +139,9 @@ td { background-color: #c7fdb5; }
  
 #### Inge Li Gørtz. Locality Sensitive Hashing and Compressed Computation
   
-#### 10:00 - 10:20 {.break}
-##### Coffee break {.cont}
+#### 10:00 - 10:20: Coffee break {.break}
   
-#### 10:20 - 12:00 {.talk}
-### Contributed talks 5 [space optimization] (Chair: NN) {.cont}
+#### 10:20 - 12:00 Contributed talks 5 [space optimization] (Chair: NN) {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -162,18 +151,15 @@ td { background-color: #c7fdb5; }
 | 11:20 - 11:40 | Jarno N. Alanko, Ruben Becker, Davide Cenzato, Travis Gagie, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.  The Trie Measure, Revisited" |
 | 11:40 - 12:00 | Yoshifumi Sakai. Linear-space LCS enumeration for two strings" |
 	
-#### 12:00 - 13:00 {.break}
-##### Lunch break {.cont}
+#### 12:00 - 13:00: Lunch break {.break}
 	
-#### 13:30 - 14:00 {.talk}
-### Highlight Talk 2 (Chair: NN) {.cont}
+#### 13:30 - 14:00: Highlight Talk 2 (Chair: NN) {.talk}
 	
 | <a></a> | <a></a> |
 | --- | --- | --- |
 | 13:30 - 14:00 | David Koslicki. Prokrustean Graph: A substring index for rapid k-mer size analysis (RECOMB 2025)" |
 
-#### 14:00 - 15:00 {.talk}
-### Contributed talks 6 [run-length compression] (Chair: NN) {.cont}
+#### 14:00 - 15:00: Contributed talks 6 [run-length compression] (Chair: NN) {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -184,8 +170,7 @@ td { background-color: #c7fdb5; }
 #### 15:00 - 15:30 {.break}
 ##### Coffee break {.cont}
 	
-#### 14:00 - 15:00 {.talk}
-### Contributed talks 7 [string algorithms] (Chair: NN) {.cont}
+#### 14:00 - 15:00: Contributed talks 7 [string algorithms] (Chair: NN) {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -193,5 +178,4 @@ td { background-color: #c7fdb5; }
 | 15:50 - 16:10 | Cyril Nicaud, Carine Pivoteau, Stéphane Vialette. Branch Prediction Analysis of Morris-Pratt and Knuth-Morris-Pratt Algorithms" |
 | 16:10 - 16:30 | Jonas Ellert, Paweł Gawrychowski, Tatiana Starikovskaya.  Minimal Generators in Optimal Time" |
 	
-#### 16:30  {.break}
-##### Closing {.cont}
+#### 16:30:  Closing {.break}
