@@ -16,7 +16,6 @@ td { background-color: #c7fdb5; }
 .keynote {
     background-color: #ffffc2;
     padding: 5px;
-    max-width: 10%;
     border: 1px solid #000;
     border-radius: 11px;
   display:block;
@@ -24,7 +23,6 @@ td { background-color: #c7fdb5; }
 .talk {
     background-color: #c7fdb5;
     padding: 5px;
-    max-width: 10%;
     border: 1px solid #000;
     border-radius: 11px;
   display:block;
@@ -32,7 +30,6 @@ td { background-color: #c7fdb5; }
 .break {
     background-color: #ffcfdc;
     padding: 5px;
-    max-width: 10%;
     border: 1px solid #000;
     border-radius: 11px;
   display:block;
