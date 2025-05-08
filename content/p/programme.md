@@ -76,11 +76,11 @@ td { padding:2px;
 
 | <a></a> | <a></a> |
 | --- | :--- |
-| 10:20-10:40 | Dirk Nowotka, Max Wiedenhöft.<br> The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
-| 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci.<br> A Family of Partial Cubes with Minimal Fibonacci Dimension |
-| 11:00-11:20 | Gabriele Fici, Jeffrey Shallit, Jamie Simpson.<br> On Palindromic Periodicities |
-| 11:20-11:40 | Bowie Liu, Dennis Wong, Chan-Tong Lam, Sio-Kei Im.<br> Generating a cyclic 2-Gray code for Lucas words in constant amortized time |
-| 11:40-12:00 | Peaker Guo, Kaisei Kishi.<br>  Net Occurrences in Fibonacci and Thue-Morse Words |
+| 10:20 - 10:40 | Dirk Nowotka, Max Wiedenhöft.<br> The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
+| 10:40 - 11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci.<br> A Family of Partial Cubes with Minimal Fibonacci Dimension |
+| 11:00 - 11:20 | Gabriele Fici, Jeffrey Shallit, Jamie Simpson.<br> On Palindromic Periodicities |
+| 11:20 - 11:40 | Bowie Liu, Dennis Wong, Chan-Tong Lam, Sio-Kei Im.<br> Generating a cyclic 2-Gray code for Lucas words in constant amortized time |
+| 11:40 - 12:00 | Peaker Guo, Kaisei Kishi.<br>  Net Occurrences in Fibonacci and Thue-Morse Words |
 
 
 #### 12:00 - 13:00: Lunch break {.break}
