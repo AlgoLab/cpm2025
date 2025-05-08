@@ -9,6 +9,7 @@ table {
   border: 0px;
   border-collapse:collapse;
   border-radius: 6px; 
+  margin-top: -20px;
 }
 th { 
   padding:1px;
@@ -27,12 +28,13 @@ td { padding:2px;
 }
 .keynote2 {
   background-color: #ffffc2;
-  padding: -5px;
+  padding: 0px;
   border: 0px solid #000;
   border-radius: 11px;
   font-size: 14px; 
   font-weight: normal;
-  display:inline;
+  display:block;
+  margin-top: -20px;
 }
 .break {
     background-color: #ffcfdc;
