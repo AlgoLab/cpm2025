@@ -2,11 +2,13 @@
 tbody { 
   width:100%;
   background-color:#ddeeff;
+  border: 0px;
   border-collapse:collapse;
 }
 table { 
   width:100%;
   background-color:#ddeeff;
+  border: 0px;
   border-collapse:collapse;
   border-radius: 6px; 
 }
