@@ -1,7 +1,7 @@
 <style type="text/css">
 tbody { width:100%;background-color:#ddeeff;border-collapse:collapse; }
 table { width:100%;background-color:#ddeeff;border-collapse:collapse; }
-th { background-color:#c7fdb5;color:#ddeeff;padding:1px;border:2px solid #ddeeff;font-size: 16px; }
+th { background-color:#c7fdb5;padding:1px;border:2px solid #ddeeff;font-size: 16px; }
 td { padding:0px; }
 td { background-color: #c7fdb5; }
 .table--bg--red {
@@ -52,8 +52,8 @@ td { background-color: #c7fdb5; }
 #### 09:00 - 10:00 Keynote Talk 1 {.keynote}
 ###### (Chair: Paola Bonizzoni) {.cont}
 
-| <div class="table--bg--yellow">Chair:</div> | <div class="table--bg--yellow">Paola Bonizzoni</div> |
-| --- | --- | --- |
+| <div class="table--bg--yellow">Chair: Paola Bonizzoni</div> |
+| --- |
 
 
 #### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.keynote}
@@ -63,7 +63,7 @@ td { background-color: #c7fdb5; }
   
 #### 10:20 - 12:20: Contributed talks 1 [combinatorics] (Chair: TBD) {.talk}
 
-| Chair: | TBD |
+|  <td colspan=2>Chair: TBD |
 | --- | --- | --- |
 | 10:20-10:40 | Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
 | 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci. A Family of Partial Cubes with Minimal Fibonacci Dimension |
