@@ -56,6 +56,7 @@ td { background-color: #c7fdb5; }
 .chair {
 	font-size: 16px; 
   font-weight: normal;
+  display:inline;
 }
 </style>
 
@@ -69,11 +70,7 @@ td { background-color: #c7fdb5; }
 #### 08:50 - 09:00 Opening {.break}
 
   
-#### 09:00 - 10:00 Keynote Talk 1 <div class="chair">Chair: Paola Bonizzoni</div> {.keynote}
-
-| <div class="table--bg--yellow">Chair: Paola Bonizzoni</div> |
-| --- |
-
+#### 09:00 - 10:00 Keynote Talk 1 <div class="chair">(Chair: Paola Bonizzoni)</div> {.keynote}
 
 #### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.keynote}
   
