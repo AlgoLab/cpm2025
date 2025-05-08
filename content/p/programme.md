@@ -18,7 +18,7 @@ th {
   border: 0px;
   font-size: 16px; 
 }
-td { padding:0px; }
+td { padding:2px; }
 td { background-color: #c7fdb5; }
 .table--bg--red {
 	background-color: #ffcfdc;
@@ -81,11 +81,11 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | :--- |
-| 10:20-10:40 | Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
-| 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci. A Family of Partial Cubes with Minimal Fibonacci Dimension |
-| 11:00-11:20 | Gabriele Fici, Jeffrey Shallit, Jamie Simpson. On Palindromic Periodicities |
-| 11:20-11:40 | Bowie Liu, Dennis Wong, Chan-Tong Lam, Sio-Kei Im. Generating a cyclic 2-Gray code for Lucas words in constant amortized time |
-| 11:40-12:00 | Peaker Guo, Kaisei Kishi.  Net Occurrences in Fibonacci and Thue-Morse Words |
+| 10:20-10:40 | Dirk Nowotka, Max Wiedenhöft.<br> The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
+| 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci.<br> A Family of Partial Cubes with Minimal Fibonacci Dimension |
+| 11:00-11:20 | Gabriele Fici, Jeffrey Shallit, Jamie Simpson.<br> On Palindromic Periodicities |
+| 11:20-11:40 | Bowie Liu, Dennis Wong, Chan-Tong Lam, Sio-Kei Im.<br> Generating a cyclic 2-Gray code for Lucas words in constant amortized time |
+| 11:40-12:00 | Peaker Guo, Kaisei Kishi.<br>  Net Occurrences in Fibonacci and Thue-Morse Words |
 
 
 #### 12:00 - 13:00: Lunch break {.break}
@@ -94,16 +94,16 @@ td { background-color: #c7fdb5; }
 	
 | <a></a> | <a></a> |
 | --- | --- |
-|  | Michal Koucký. Almost Linear Size Edit Distance Sketch (STOC 2024) |
+|  | Michal Koucký.<br> Almost Linear Size Edit Distance Sketch (STOC 2024) |
 
 
 #### 14:00 - 15:00: Contributed talks 2 [graphs and automata] <div class="chair">(Chair: NN)</div>  {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- |
-| 14:00 - 14:20 | Riccardo Dondi, Alexandru Popa.  Representing Paths in Digraphs
-| 14:20 - 14:40 | Wiktor Zuba, Oded Lachish, Solon Pissis. Shortest Undirected Paths in de Bruijn Graphs
-| 14:40 - 15:00 | Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni. Encoding Co-Lex Orders of Finite-State Automata in Linear Space
+| 14:00 - 14:20 | Riccardo Dondi, Alexandru Popa.<br>  Representing Paths in Digraphs
+| 14:20 - 14:40 | Wiktor Zuba, Oded Lachish, Solon Pissis.<br> Shortest Undirected Paths in de Bruijn Graphs
+| 14:40 - 15:00 | Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.<br> Encoding Co-Lex Orders of Finite-State Automata in Linear Space
 	
 #### 15:00 - 15:30: Coffee break {.break}
   
@@ -111,10 +111,10 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | --- |
-| 15:30 - 16:00 | Solon Pissis, Jakub Radoszewski Wiktor Zuba (part A); Pawel Gawrychowski, Adam Górkiewicz, Pola Marciniak, Solon Pissis, Karol Pokorski (part B).  Faster Approximate Elastic-Degenerate String Matching
-| 16:00 - 16:20 | Nicola Cotumaccio. Improved Circular Dictionary Matching |
-| 16:20 - 16:40 | Nikita Gaevoy, Boris Zolotov, Alexander Tiskin. Doubly-periodic string comparison |
-| 16:40 - 17:00 | Eric Osterkamp, Dominik Köppl. Extending the Burrows-Wheeler Transform for Cartesian Tree Matching, Constructing It |
+| 15:30 - 16:00 | Solon Pissis, Jakub Radoszewski Wiktor Zuba (part A); Pawel Gawrychowski, Adam Górkiewicz, Pola Marciniak, Solon Pissis, Karol Pokorski (part B).<br>  Faster Approximate Elastic-Degenerate String Matching
+| 16:00 - 16:20 | Nicola Cotumaccio.<br> Improved Circular Dictionary Matching |
+| 16:20 - 16:40 | Nikita Gaevoy, Boris Zolotov, Alexander Tiskin.<br> Doubly-periodic string comparison |
+| 16:40 - 17:00 | Eric Osterkamp, Dominik Köppl.<br> Extending the Burrows-Wheeler Transform for Cartesian Tree Matching, Constructing It |
 
 
 #### 17:00 - 17:15: Break {.break}
