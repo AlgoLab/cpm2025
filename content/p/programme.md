@@ -77,8 +77,8 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | :--- |
-|  | Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited | {.yellow}
-
+| : | Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited |
+{.yellow}
 
 #### 10:00 - 10:20: Coffee break {.break}
   
