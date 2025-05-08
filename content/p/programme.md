@@ -13,6 +13,7 @@ table {
 th { 
   background-color:#c7fdb5;
   padding:1px;
+  border: 0px;
   font-size: 16px; 
 }
 td { padding:0px; }
@@ -63,7 +64,6 @@ td { background-color: #c7fdb5; }
 
   
 #### 09:00 - 10:00 Keynote Talk 1 {.keynote}
-###### (Chair: Paola Bonizzoni) {.cont}
 
 | <div class="table--bg--yellow">Chair: Paola Bonizzoni</div> |
 | --- |
@@ -122,7 +122,10 @@ td { background-color: #c7fdb5; }
 
 
 #### 09:00 - 10:00 Keynote Talk 2 {.keynote}
-###### (Chair: Veli Mäkinen)  {.cont}
+
+| <div class="table--bg--yellow">Chair: Veli Mäkinen</div> |
+| --- |
+
 #### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique {.keynote}
   
 #### 10:00 - 10:20: Coffee break {.break}
@@ -145,7 +148,8 @@ td { background-color: #c7fdb5; }
 ## Thursday June 19th
 
 #### 09:00 - 10:00 Keynote Talk 3 {.keynote}
-###### (Chair: Gianluca Della Vedova)  {.cont}
+| <div class="table--bg--yellow">Chair: Gianluca Della Vedova</div> |
+| --- |
  
 #### Inge Li Gørtz. Locality Sensitive Hashing and Compressed Computation {.keynote}
   
