@@ -8,7 +8,7 @@ table {
   width:100%;
   border: 0px;
   border-collapse:collapse;
-  border-radius: 6px; 
+  border-radius: 11px; 
   margin-top: -20px;
 }
 th { 
