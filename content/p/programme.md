@@ -54,7 +54,7 @@ td { background-color: #c7fdb5; }
   display:block;
 }
 .chair {
-	font-size: 16px; 
+	font-size: 14px; 
   font-weight: normal;
   display:inline;
 }
@@ -80,7 +80,7 @@ td { background-color: #c7fdb5; }
 #### 10:20 - 12:20: Contributed talks 1 [combinatorics] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
-| --- | --- |
+| --- | :--- |
 | 10:20-10:40 | Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
 | 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci. A Family of Partial Cubes with Minimal Fibonacci Dimension |
 | 11:00-11:20 | Gabriele Fici, Jeffrey Shallit, Jamie Simpson. On Palindromic Periodicities |
@@ -135,10 +135,10 @@ td { background-color: #c7fdb5; }
 | <a></a> | <a></a> |
 | --- | --- |
 | 10:20 - 10:40 | Paolo Ferragina, Filippo Lari.<br> FL-RMQ: A learned approach to range minimum queries |
-| 10:40 - 11:00 | Hideo Bannai, Philip Bille, Inge Li Gørtz, Gad M. Landau, Gonzalo Navarro, Nicola Prezza, Teresa Anna Steiner, Simon Rumle Tarnow. Text Indexing for Simple Regular Expressions |
-| 11:00 - 11:20 | Waseem Akram, Takuya Mieno. Sorted Consecutive Occurrence Queries in Substrings |
-| 11:20 - 11:40 | Seungbum Jo, Srinivasa Rao Satti. Encodings for Range Minimum Queries over Bounded Alphabets |
-| 11:40 - 12:00 | Simon R. Tarnow, Philip Bille, Inge Li Gørtz. Succinct Data Structures for Segments |
+| 10:40 - 11:00 | Hideo Bannai, Philip Bille, Inge Li Gørtz, Gad M. Landau, Gonzalo Navarro, Nicola Prezza, Teresa Anna Steiner, Simon Rumle Tarnow.<br> Text Indexing for Simple Regular Expressions |
+| 11:00 - 11:20 | Waseem Akram, Takuya Mieno.<br> Sorted Consecutive Occurrence Queries in Substrings |
+| 11:20 - 11:40 | Seungbum Jo, Srinivasa Rao Satti.<br> Encodings for Range Minimum Queries over Bounded Alphabets |
+| 11:40 - 12:00 | Simon R. Tarnow, Philip Bille, Inge Li Gørtz.<br> Succinct Data Structures for Segments |
 	
 #### 12:00 - 13:00: Lunch break {.break}
 #### 13:00 - 18:30: Excursion {.break}
@@ -157,11 +157,11 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | --- |
-| 10:20 - 10:40 | Itai Boneh, Shay Golan. Covers in Optimal Space |
-| 10:40 - 11:00 | Hideo Bannai, Tomohiro I, Yuto Nakashima. On the compressiveness of the Burrows-Wheeler transform |
-| 11:00 - 11:20 | Takuya Mieno, Shunsuke Inenaga. Space-Efficient Online Computation of String Net Occurrences |
-| 11:20 - 11:40 | Jarno N. Alanko, Ruben Becker, Davide Cenzato, Travis Gagie, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.  The Trie Measure, Revisited |
-| 11:40 - 12:00 | Yoshifumi Sakai. Linear-space LCS enumeration for two strings |
+| 10:20 - 10:40 | Itai Boneh, Shay Golan.<br> Covers in Optimal Space |
+| 10:40 - 11:00 | Hideo Bannai, Tomohiro I, Yuto Nakashima.<br> On the compressiveness of the Burrows-Wheeler transform |
+| 11:00 - 11:20 | Takuya Mieno, Shunsuke Inenaga.<br> Space-Efficient Online Computation of String Net Occurrences |
+| 11:20 - 11:40 | Jarno N. Alanko, Ruben Becker, Davide Cenzato, Travis Gagie, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.<br>  The Trie Measure, Revisited |
+| 11:40 - 12:00 | Yoshifumi Sakai.<br> Linear-space LCS enumeration for two strings |
 	
 #### 12:00 - 13:00: Lunch break {.break}
 	
@@ -169,15 +169,15 @@ td { background-color: #c7fdb5; }
 	
 | <a></a> | <a></a> |
 | --- | --- |
-| 13:30 - 14:00 | David Koslicki. Prokrustean Graph: A substring index for rapid k-mer size analysis (RECOMB 2025) |
+| 13:30 - 14:00 | David Koslicki.<br> Prokrustean Graph: A substring index for rapid k-mer size analysis (RECOMB 2025) |
 
 #### 14:00 - 15:00: Contributed talks 6 [run-length compression] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- |
-| 14:00 - 14:20 | Gonzalo Navarro, Alejandro Pacheco. Counting on General Run-Length Grammars |
-| 14:20 - 14:40 | Yuto Iguchi, Ryo Yoshinaka, Ayumi Shinohara. Pattern Matching on Run-Length Grammar-Compressed Strings in Linear Time |
-| 14:40 - 15:00 | Philip Bille, Inge Li Gørtz, Simon Puglisi, Simon R. Tarnow. Compressed Dictionary Matching on Run-Length Encoded Strings |
+| 14:00 - 14:20 | Gonzalo Navarro, Alejandro Pacheco.<br> Counting on General Run-Length Grammars |
+| 14:20 - 14:40 | Yuto Iguchi, Ryo Yoshinaka, Ayumi Shinohara.<br> Pattern Matching on Run-Length Grammar-Compressed Strings in Linear Time |
+| 14:40 - 15:00 | Philip Bille, Inge Li Gørtz, Simon Puglisi, Simon R. Tarnow.<br> Compressed Dictionary Matching on Run-Length Encoded Strings |
 	
 #### 15:00 - 15:30 {.break}
 ##### Coffee break {.cont}
@@ -186,8 +186,8 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | --- |
-| 15:30 - 15:50 | Shay Golan, Matan Kraus. String Problems in the Congested Clique Model |
-| 15:50 - 16:10 | Cyril Nicaud, Carine Pivoteau, Stéphane Vialette. Branch Prediction Analysis of Morris-Pratt and Knuth-Morris-Pratt Algorithms |
-| 16:10 - 16:30 | Jonas Ellert, Paweł Gawrychowski, Tatiana Starikovskaya.  Minimal Generators in Optimal Time |
+| 15:30 - 15:50 | Shay Golan, Matan Kraus.<br> String Problems in the Congested Clique Model |
+| 15:50 - 16:10 | Cyril Nicaud, Carine Pivoteau, Stéphane Vialette.<br> Branch Prediction Analysis of Morris-Pratt and Knuth-Morris-Pratt Algorithms |
+| 16:10 - 16:30 | Jonas Ellert, Paweł Gawrychowski, Tatiana Starikovskaya.<br>  Minimal Generators in Optimal Time |
 	
 #### 16:30:  Closing {.break}
