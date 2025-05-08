@@ -36,7 +36,7 @@ td { background-color: #c7fdb5; }
 }
 .cont {
     margin-top: -50px;
-  display:inline;
+  display:block;
 }
 </style>
 
@@ -52,7 +52,6 @@ td { background-color: #c7fdb5; }
   
 #### 09:00 - 10:00 Keynote Talk 1 {.keynote}
 ###### (Chair: Paola Bonizzoni) {.cont}
- 
 #### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.keynote}
   
 
@@ -98,20 +97,19 @@ td { background-color: #c7fdb5; }
 | 16:40 - 17:00 | Eric Osterkamp, Dominik Köppl. Extending the Burrows-Wheeler Transform for Cartesian Tree Matching, Constructing It |
 
 
-17:00 - 17:15	Break
-17:15 - 18:15	Business meeting
+#### 17:00 - 17:15: Break {.break}
+
+#### 17:15 - 18:15: Business meeting {.break}
 	
 ## Wednesday June 18th
 
 
-#### 09:00 - 10:00 {.keynote}
-### Keynote Talk 2 {.cont}
+#### 09:00 - 10:00 Keynote Talk 2 {.keynote}
 ###### (Chair: Veli Mäkinen)  {.cont}
- 
-#### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique
+#### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique {.keynote}
   
 #### 10:00 - 10:20: Coffee break {.break}
-	
+
 #### 10:20 - 10:40: Contributed talks 4 [indexing] (Chair: NN) {.talk}
 
 | <a></a> | <a></a> |
@@ -130,11 +128,10 @@ td { background-color: #c7fdb5; }
 	
 ## Thursday June 19th
 
-#### 09:00 - 10:00 {.keynote}
-### Keynote Talk 3 {.cont}
+#### 09:00 - 10:00 Keynote Talk 3 {.keynote}
 ###### (Chair: Gianluca Della Vedova)  {.cont}
  
-#### Inge Li Gørtz. Locality Sensitive Hashing and Compressed Computation
+#### Inge Li Gørtz. Locality Sensitive Hashing and Compressed Computation {.keynote}
   
 #### 10:00 - 10:20: Coffee break {.break}
   
