@@ -63,13 +63,13 @@ td { background-color: #c7fdb5; }
 
 #### 09:00 - 10:00 {.keynote}
 ### Kunihiko Sadakane.  {.cont}
-### Compressed Suffix Arrays and Suffix Trees Revisited  {.cont}
+Compressed Suffix Arrays and Suffix Trees Revisited
 
 
 #### 10:00 - 10:20 {.break}
 ##### Coffee break {.cont}
 
-
+#### 10:20 - 12:20 {.talk}
 ### Contributed talks 1 [combinatorics] (Chair: TBD)
 
 | <a></a> | <a></a> |
