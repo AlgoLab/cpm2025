@@ -95,7 +95,6 @@ Incontro alle 18:30
 ##### Speakers. Title {.cont}
 
 
-## Thursday June 19th
 
 
 	
@@ -107,6 +106,7 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 "Contributed talks 2 [graphs and automata]
 (Chair: NN)"	
 
+| <a></a> | <a></a> |
 | --- | --- | --- |
 | 14:00 - 14:20 | Riccardo Dondi, Alexandru Popa.  Representing Paths in Digraphs"
 | 14:20 - 14:40 | Wiktor Zuba, Oded Lachish, Solon Pissis. Shortest Undirected Paths in de Bruijn Graphs"
@@ -117,6 +117,7 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 "Contributed talks 3 [matching and comparison]
 (Chair: NN)"	
 
+| <a></a> | <a></a> |
 | --- | --- | --- |
 | 15:30 - 16:00 | Solon Pissis, Jakub Radoszewski Wiktor Zuba (part A); Pawel Gawrychowski, Adam Górkiewicz, Pola Marciniak, Solon Pissis, Karol Pokorski (part B).  Faster Approximate Elastic-Degenerate String Matching"
 | 16:00 - 16:20 | Nicola Cotumaccio. Improved Circular Dictionary Matching" |
@@ -126,18 +127,20 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 17:00 - 17:15	Break
 17:15 - 18:15	Business meeting
 	
-Back to top	
-	
-Wednesday, June 18, 2025	
-Keynote Talk 2 (Chair: Veli Mäkinen)	
-09:00 - 10:00	"Nicola Prezza 
-Suffixient Arrays: a new Efficient Suffix Array Compression Technique"
+## Wednesday June 18th
+
+
+#### 09:00 - 10:00 {.keynote}
+### Keynote Talk 2 (Chair: Veli Mäkinen)  {.cont}
+
+#### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique
 	
 10:00 - 10:20	Coffee break
 	
 "Contributed talks 4 [indexing]
 (Chair: NN)"	
 
+| <a></a> | <a></a> |
 | --- | --- | --- |
 | 10:20 - 10:40 | Paolo Ferragina, Filippo Lari. FL-RMQ: A learned approach to range minimum queries" |
 | 10:40 - 11:00 | Hideo Bannai, Philip Bille, Inge Li Gørtz, Gad M. Landau, Gonzalo Navarro, Nicola Prezza, Teresa Anna Steiner, Simon Rumle Tarnow. Text Indexing for Simple Regular Expressions" |
@@ -148,9 +151,9 @@ Suffixient Arrays: a new Efficient Suffix Array Compression Technique"
 12:00 - 13:00	Lunch break 
 13:00 - 18:30	Excursion
 18:30 - 21:00	Conference dinner
-Back to top	
 	
-Thursday, June 19, 2025	
+## Thursday June 19th
+
 Keynote Talk 3 (Chair: Gianluca Della Vedova)	
 09:00 - 10:00	"Inge Li Gørtz
 Locality Sensitive Hashing and Compressed Computation"
@@ -160,6 +163,7 @@ Locality Sensitive Hashing and Compressed Computation"
 "Contributed talks 5 [space optimization]
 (Chair: NN)"	
 
+| <a></a> | <a></a> |
 | --- | --- | --- |
 | 10:20 - 10:40 | Itai Boneh, Shay Golan. Covers in Optimal Space" |
 | 10:40 - 11:00 | Hideo Bannai, Tomohiro I, Yuto Nakashima. On the compressiveness of the Burrows-Wheeler transform" |
@@ -171,12 +175,14 @@ Locality Sensitive Hashing and Compressed Computation"
 	
 Highlight Talk 2 (Chair: NN)	
 
+| <a></a> | <a></a> |
 | --- | --- | --- |
 | 13:30 - 14:00 | David Koslicki. Prokrustean Graph: A substring index for rapid k-mer size analysis (RECOMB 2025)" |
 
 "Contributed talks 6 [run-length compression]
 (Chair: NN)"	
 
+| <a></a> | <a></a> |
 | --- | --- | --- |
 | 14:00 - 14:20 | Gonzalo Navarro, Alejandro Pacheco. Counting on General Run-Length Grammars" |
 | 14:20 - 14:40 | Yuto Iguchi, Ryo Yoshinaka, Ayumi Shinohara. Pattern Matching on Run-Length Grammar-Compressed Strings in Linear Time" |
@@ -187,6 +193,7 @@ Highlight Talk 2 (Chair: NN)
 "Contributed talks 7 [string algorithms]
 (Chair: NN)"	
 
+| <a></a> | <a></a> |
 | --- | --- | --- |
 | 15:30 - 15:50 | Shay Golan, Matan Kraus. String Problems in the Congested Clique Model" |
 | 15:50 - 16:10 | Cyril Nicaud, Carine Pivoteau, Stéphane Vialette. Branch Prediction Analysis of Morris-Pratt and Knuth-Morris-Pratt Algorithms" |
