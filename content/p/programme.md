@@ -35,7 +35,7 @@ td { background-color: #c7fdb5; }
   display:block;
 }
 .cont {
-    margin-top: -40px;
+    margin-top: -50px;
   display:inline;
 }
 </style>
@@ -53,7 +53,7 @@ td { background-color: #c7fdb5; }
 #### 09:00 - 10:00 Keynote Talk 1 {.keynote}
 ###### (Chair: Paola Bonizzoni) {.cont}
  
-#### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited
+#### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.keynote}
   
 
 #### 10:00 - 10:20: Coffee break {.break}
@@ -63,8 +63,7 @@ td { background-color: #c7fdb5; }
 | <a></a> | <a></a> |
 | --- | --- | --- |
 | 10:20-10:40 | Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
-| 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci. |
-| 11:00-11:20 | A Family of Partial Cubes with Minimal Fibonacci Dimension |
+| 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci. A Family of Partial Cubes with Minimal Fibonacci Dimension |
 | 11:00-11:20 | Gabriele Fici, Jeffrey Shallit, Jamie Simpson. On Palindromic Periodicities |
 | 11:20-11:40 | Bowie Liu, Dennis Wong, Chan-Tong Lam, Sio-Kei Im. Generating a cyclic 2-Gray code for Lucas words in constant amortized time |
 | 11:40-12:00 | Peaker Guo, Kaisei Kishi.  Net Occurrences in Fibonacci and Thue-Morse Words |
