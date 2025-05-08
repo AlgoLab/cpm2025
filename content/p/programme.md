@@ -32,7 +32,7 @@ td { padding:2px;
   border-radius: 11px;
   font-size: 14px; 
   font-weight: normal;
-  display:block;
+  display:inline;
 }
 .break {
     background-color: #ffcfdc;
