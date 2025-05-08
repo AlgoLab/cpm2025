@@ -72,7 +72,9 @@ td { background-color: #c7fdb5; }
   
 #### 09:00 - 10:00 Keynote Talk 1 <div class="chair">(Chair: Paola Bonizzoni)</div> {.keynote}
 
-#### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.keynote}
+| <a></a> | <a></a> |
+| --- | :--- |
+|  | <div class="table--bg--green">Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited</div> |
   
 
 #### 10:00 - 10:20: Coffee break {.break}
@@ -93,14 +95,14 @@ td { background-color: #c7fdb5; }
 #### 13:30 - 14:00: Highlight Talk 1 <div class="chair">(Chair: NN)</div> {.talk}
 	
 | <a></a> | <a></a> |
-| --- | --- |
+| --- | :--- |
 |  | Michal Koucký.<br> Almost Linear Size Edit Distance Sketch (STOC 2024) |
 
 
 #### 14:00 - 15:00: Contributed talks 2 [graphs and automata] <div class="chair">(Chair: NN)</div>  {.talk}
 
 | <a></a> | <a></a> |
-| --- | --- |
+| --- | :--- |
 | 14:00 - 14:20 | Riccardo Dondi, Alexandru Popa.<br>  Representing Paths in Digraphs
 | 14:20 - 14:40 | Wiktor Zuba, Oded Lachish, Solon Pissis.<br> Shortest Undirected Paths in de Bruijn Graphs
 | 14:40 - 15:00 | Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni.<br> Encoding Co-Lex Orders of Finite-State Automata in Linear Space
@@ -110,7 +112,7 @@ td { background-color: #c7fdb5; }
 #### 15:30 - 17:00: Contributed talks 3 [matching and comparison] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
-| --- | --- |
+| --- | :--- |
 | 15:30 - 16:00 | Solon Pissis, Jakub Radoszewski Wiktor Zuba (part A); Pawel Gawrychowski, Adam Górkiewicz, Pola Marciniak, Solon Pissis, Karol Pokorski (part B).<br>  Faster Approximate Elastic-Degenerate String Matching
 | 16:00 - 16:20 | Nicola Cotumaccio.<br> Improved Circular Dictionary Matching |
 | 16:20 - 16:40 | Nikita Gaevoy, Boris Zolotov, Alexander Tiskin.<br> Doubly-periodic string comparison |
@@ -133,7 +135,7 @@ td { background-color: #c7fdb5; }
 #### 10:20 - 10:40: Contributed talks 4 [indexing] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
-| --- | --- |
+| --- | :--- |
 | 10:20 - 10:40 | Paolo Ferragina, Filippo Lari.<br> FL-RMQ: A learned approach to range minimum queries |
 | 10:40 - 11:00 | Hideo Bannai, Philip Bille, Inge Li Gørtz, Gad M. Landau, Gonzalo Navarro, Nicola Prezza, Teresa Anna Steiner, Simon Rumle Tarnow.<br> Text Indexing for Simple Regular Expressions |
 | 11:00 - 11:20 | Waseem Akram, Takuya Mieno.<br> Sorted Consecutive Occurrence Queries in Substrings |
@@ -156,7 +158,7 @@ td { background-color: #c7fdb5; }
 #### 10:20 - 12:00 Contributed talks 5 [space optimization] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
-| --- | --- |
+| --- | :--- |
 | 10:20 - 10:40 | Itai Boneh, Shay Golan.<br> Covers in Optimal Space |
 | 10:40 - 11:00 | Hideo Bannai, Tomohiro I, Yuto Nakashima.<br> On the compressiveness of the Burrows-Wheeler transform |
 | 11:00 - 11:20 | Takuya Mieno, Shunsuke Inenaga.<br> Space-Efficient Online Computation of String Net Occurrences |
@@ -168,13 +170,13 @@ td { background-color: #c7fdb5; }
 #### 13:30 - 14:00: Highlight Talk 2 <div class="chair">(Chair: NN)</div> {.talk}
 	
 | <a></a> | <a></a> |
-| --- | --- |
+| --- | :--- |
 | 13:30 - 14:00 | David Koslicki.<br> Prokrustean Graph: A substring index for rapid k-mer size analysis (RECOMB 2025) |
 
 #### 14:00 - 15:00: Contributed talks 6 [run-length compression] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
-| --- | --- |
+| --- | :--- |
 | 14:00 - 14:20 | Gonzalo Navarro, Alejandro Pacheco.<br> Counting on General Run-Length Grammars |
 | 14:20 - 14:40 | Yuto Iguchi, Ryo Yoshinaka, Ayumi Shinohara.<br> Pattern Matching on Run-Length Grammar-Compressed Strings in Linear Time |
 | 14:40 - 15:00 | Philip Bille, Inge Li Gørtz, Simon Puglisi, Simon R. Tarnow.<br> Compressed Dictionary Matching on Run-Length Encoded Strings |
@@ -185,7 +187,7 @@ td { background-color: #c7fdb5; }
 #### 14:00 - 15:00: Contributed talks 7 [string algorithms] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
-| --- | --- |
+| --- | :--- |
 | 15:30 - 15:50 | Shay Golan, Matan Kraus.<br> String Problems in the Congested Clique Model |
 | 15:50 - 16:10 | Cyril Nicaud, Carine Pivoteau, Stéphane Vialette.<br> Branch Prediction Analysis of Morris-Pratt and Knuth-Morris-Pratt Algorithms |
 | 16:10 - 16:30 | Jonas Ellert, Paweł Gawrychowski, Tatiana Starikovskaya.<br>  Minimal Generators in Optimal Time |
