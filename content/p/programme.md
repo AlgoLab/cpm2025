@@ -52,6 +52,8 @@ td { background-color: #c7fdb5; }
 #### 08:30 - 08:50 {.break}
 ##### Registration {.cont}
 
+---
+
 #### 08:50 - 09:00 {.break}
 ##### Opening {.cont}
 
@@ -66,7 +68,7 @@ Compressed Suffix Arrays and Suffix Trees Revisited
 
 | <a></a> | <a></a> |
 | --- | --- |
-| <div class="table--bg--red">10:20-10:40</div> | <div class="table--bg--red">Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable</div> |
+| 10:20-10:40 | <div class="table--bg--red">Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable</div> |
 | <div class="table--bg--yellow">10:40-11:00</div> | <div class="table--bg--yellow">Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci.</div> |
 | <div class="table--bg--yellow">11:00-11:20</div> | <div class="table--bg--yellow">A Family of Partial Cubes with Minimal Fibonacci Dimension</div> |
 | <div class="table--bg--yellow">11:00-11:20</div> | <div class="table--bg--yellow">Gabriele Fici, Jeffrey Shallit, Jamie Simpson. On Palindromic Periodicities</div> |
