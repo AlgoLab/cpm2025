@@ -51,6 +51,12 @@ td { background-color: #c7fdb5; }
   
 #### 09:00 - 10:00 Keynote Talk 1 {.keynote}
 ###### (Chair: Paola Bonizzoni) {.cont}
+
+| <a></a> | <a></a> |
+| --- | --- | --- |
+|  <div class="table--bg--yellow">Chair:</div> | Paola Bonizzoni |
+
+
 #### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.keynote}
   
 
@@ -58,7 +64,7 @@ td { background-color: #c7fdb5; }
   
 #### 10:20 - 12:20: Contributed talks 1 [combinatorics] (Chair: TBD) {.talk}
 
-| <a></a> | <a></a> |
+| Chair: | TBD |
 | --- | --- | --- |
 | 10:20-10:40 | Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
 | 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci. A Family of Partial Cubes with Minimal Fibonacci Dimension |
