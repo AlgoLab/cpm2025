@@ -50,7 +50,7 @@ td { background-color: #c7fdb5; }
 ## Tuesday June 17th
 
 #### 08:30 - 08:50 {.break}
-##### Registration {.cont}
+##### Registration 
 
 #### 08:50 - 09:00 {.break}
 ##### Opening {.cont}
@@ -59,8 +59,7 @@ td { background-color: #c7fdb5; }
 
 ### Keynote talk 1 (Chair: Paola Bonizzoni)
 #### 09:00 - 10:00 {.keynote}
-##### Kunihiko Sadakane. 
-Compressed Suffix Arrays and Suffix Trees Revisited {.cont}
+##### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.cont}
 
 
 | <a></a> | <a></a> |
