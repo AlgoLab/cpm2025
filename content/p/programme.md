@@ -65,6 +65,11 @@ td { background-color: #c7fdb5; }
 ### Kunihiko Sadakane.  {.cont}
 ### Compressed Suffix Arrays and Suffix Trees Revisited  {.cont}
 
+
+#### 10:00 - 10:20 {.break}
+##### Coffee break {.cont}
+
+
 ### Contributed talks 1 [combinatorics] (Chair: TBD)
 
 | <a></a> | <a></a> |
@@ -76,30 +81,10 @@ td { background-color: #c7fdb5; }
 | 11:20-11:40 | Bowie Liu, Dennis Wong, Chan-Tong Lam, Sio-Kei Im. Generating a cyclic 2-Gray code for Lucas words in constant amortized time |
 | 11:40-12:00 | Peaker Guo, Kaisei Kishi.  Net Occurrences in Fibonacci and Thue-Morse Words |
 
-#### 10:00 - 10:20 {.break}
-##### Coffee break {.cont}
 
+#### 12:00 - 13:00 {.break}
+##### Lunch break {.cont}
 
-
-| <a></a> | <a></a> |
-| --- | --- |
-| #### 08:00-09:00 | #### Speaker 1. *Title* |
-| 09:00-10:00 | Speaker 2. *Title* |
-
-<br><br>
-
-Incontro alle 18:30
-<br>
-### Contributed talk 1 (Chair: XX YY) 
-#### 14:30 {.talk}
-##### Speakers. Title {.cont}
-
-
-
-
-	
-12:00 - 13:30	Lunch break
-	
 Highlight Talk 1 (Chair: NN)	
 13:30 - 14:00	"Michal Koucký 
 Almost Linear Size Edit Distance Sketch (STOC 2024)"
@@ -132,8 +117,8 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 
 
 #### 09:00 - 10:00 {.keynote}
-### Keynote Talk 2 (Chair: Veli Mäkinen)  {.cont}
- (Chair: Veli Mäkinen)  {.cont}
+### Keynote Talk 2 {.cont}
+###### (Chair: Veli Mäkinen)  {.cont}
  
 #### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique
 	
