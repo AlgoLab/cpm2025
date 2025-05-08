@@ -19,7 +19,7 @@ td { background-color: #c7fdb5; }
     max-width: 10%;
     border: 1px solid #000;
     border-radius: 11px;
-    display: inline
+  display:block;
 }
 .talk {
     background-color: #c7fdb5;
@@ -27,7 +27,7 @@ td { background-color: #c7fdb5; }
     max-width: 10%;
     border: 1px solid #000;
     border-radius: 11px;
-    display: inline
+  display:block;
 }
 .break {
     background-color: #ffcfdc;
@@ -35,7 +35,7 @@ td { background-color: #c7fdb5; }
     max-width: 10%;
     border: 1px solid #000;
     border-radius: 11px;
-    display: inline
+  display:block;
 }
 .cont {
     margin-top: -40px;
@@ -48,17 +48,14 @@ td { background-color: #c7fdb5; }
 
 ## Tuesday June 17th
 
-#### 08:30 - 08:50 {.break}
-##### Registration {.cont}
+#### 08:30 - 08:50: Registration {.break}
 
 ---
 
-#### 08:50 - 09:00 {.break}
-##### Opening {.cont}
+#### 08:50 - 09:00 Opening {.break}
 
   
-#### 09:00 - 10:00 {.keynote}
-### Keynote Talk 1 {.cont}
+#### 09:00 - 10:00 Keynote Talk 1 {.keynote}
 ###### (Chair: Paola Bonizzoni)  {.cont}
  
 #### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited
