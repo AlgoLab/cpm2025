@@ -58,13 +58,12 @@ td { background-color: #c7fdb5; }
 ##### Opening {.cont}
 
 
-
-#### Keynote talk 1 (Chair: Paola Bonizzoni)
-
 #### 09:00 - 10:00 {.keynote}
-### Kunihiko Sadakane.  {.cont}
-Compressed Suffix Arrays and Suffix Trees Revisited
-
+### Keynote Talk 1 {.cont}
+###### (Chair: Paola Bonizzoni)  {.cont}
+ 
+#### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited
+  
 
 #### 10:00 - 10:20 {.break}
 ##### Coffee break {.cont}
@@ -85,11 +84,16 @@ Compressed Suffix Arrays and Suffix Trees Revisited
 #### 12:00 - 13:00 {.break}
 ##### Lunch break {.cont}
 
-Highlight Talk 1 (Chair: NN)	
-13:30 - 14:00	"Michal Koucký 
-Almost Linear Size Edit Distance Sketch (STOC 2024)"
-"Contributed talks 2 [graphs and automata]
-(Chair: NN)"	
+#### 13:30 - 14:00 {.talk}
+### Highlight Talk 1 (Chair: NN)
+	
+| <a></a> | <a></a> |
+| --- | --- | --- |
+| 13:30 - 14:00 | Michal Koucký. Almost Linear Size Edit Distance Sketch (STOC 2024) |
+
+
+#### 14:00 - 15:00 {.talk}
+### Contributed talks 2 [graphs and automata] (Chair: NN)
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -99,9 +103,9 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 	
 #### 15:00 - 15:30 {.break}
 ##### Coffee break {.cont}
-	
-"Contributed talks 3 [matching and comparison]
-(Chair: NN)"	
+  
+#### 15:30 - 17:00 {.talk}
+### Contributed talks 3 [matching and comparison] (Chair: NN)
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -109,7 +113,8 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 | 16:00 - 16:20 | Nicola Cotumaccio. Improved Circular Dictionary Matching" |
 | 16:20 - 16:40 | Nikita Gaevoy, Boris Zolotov, Alexander Tiskin. Doubly-periodic string comparison" |
 | 16:40 - 17:00 | Eric Osterkamp, Dominik Köppl. Extending the Burrows-Wheeler Transform for Cartesian Tree Matching, Constructing It" |
-	
+
+
 17:00 - 17:15	Break
 17:15 - 18:15	Business meeting
 	
@@ -125,8 +130,8 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 #### 10:00 - 10:20 {.break}
 ##### Coffee break {.cont}
 	
-"Contributed talks 4 [indexing]
-(Chair: NN)"	
+#### 10:20 - 10:40 {.talk}
+### Contributed talks 4 [indexing] (Chair: NN)"	
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -152,9 +157,9 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
   
 #### 10:00 - 10:20 {.break}
 ##### Coffee break {.cont}
-	
-"Contributed talks 5 [space optimization]
-(Chair: NN)"	
+  
+#### 10:20 - 12:00 {.talk}
+### Contributed talks 5 [space optimization] (Chair: NN)
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -167,14 +172,15 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 #### 12:00 - 13:00 {.break}
 ##### Lunch break {.cont}
 	
-Highlight Talk 2 (Chair: NN)	
-
+#### 13:30 - 14:00 {.talk}
+### Highlight Talk 2 (Chair: NN)
+	
 | <a></a> | <a></a> |
 | --- | --- | --- |
 | 13:30 - 14:00 | David Koslicki. Prokrustean Graph: A substring index for rapid k-mer size analysis (RECOMB 2025)" |
 
-"Contributed talks 6 [run-length compression]
-(Chair: NN)"	
+#### 14:00 - 15:00 {.talk}
+### Contributed talks 6 [run-length compression] (Chair: NN)
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -185,8 +191,8 @@ Highlight Talk 2 (Chair: NN)
 #### 15:00 - 15:30 {.break}
 ##### Coffee break {.cont}
 	
-"Contributed talks 7 [string algorithms]
-(Chair: NN)"	
+#### 14:00 - 15:00 {.talk}
+### Contributed talks 7 [string algorithms] (Chair: NN)
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -194,4 +200,5 @@ Highlight Talk 2 (Chair: NN)
 | 15:50 - 16:10 | Cyril Nicaud, Carine Pivoteau, Stéphane Vialette. Branch Prediction Analysis of Morris-Pratt and Knuth-Morris-Pratt Algorithms" |
 | 16:10 - 16:30 | Jonas Ellert, Paweł Gawrychowski, Tatiana Starikovskaya.  Minimal Generators in Optimal Time" |
 	
-16:30 - 16:40	Closing
+#### 16:30  {.break}
+##### Closing {.cont}
