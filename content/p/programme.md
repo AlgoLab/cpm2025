@@ -59,30 +59,19 @@ td { background-color: #c7fdb5; }
 
 ### Keynote talk 1 (Chair: Paola Bonizzoni)
 #### 09:00 - 10:00 {.keynote}
-##### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.cont}
+##### Kunihiko Sadakane.  {.cont}
+Compressed Suffix Arrays and Suffix Trees Revisited
 
-
-"Contributed talks 1 [combinatorics]
-(Chair: NN)"	
-10:20 - 10:40	""
-10:40 - 11:00	" 
-"
-11:00 - 11:20	"Gabriele Fici, Jeffrey Shallit, Jamie Simpson. 
-On Palindromic Periodicities"
-11:20 - 11:40	"Bowie Liu, Dennis Wong, Chan-Tong Lam, Sio-Kei Im. 
-Generating a cyclic 2-Gray code for Lucas words in constant amortized time"
-11:40 - 12:00	"Peaker Guo, Kaisei Kishi. 
-Net Occurrences in Fibonacci and Thue-Morse Words"
-
+### Contributed talks 1 [combinatorics] (Chair: TBD)
 
 | <a></a> | <a></a> |
 | --- | --- |
-| <div class="table--bg--red">10:20-10:40</div> | <div class="table--bg--red">Dirk Nowotka, Max Wiedenhöft. 
-The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable</div> |
+| <div class="table--bg--red">10:20-10:40</div> | <div class="table--bg--red">Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable</div> |
 | <div class="table--bg--yellow">10:40-11:00</div> | <div class="table--bg--yellow">Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci.</div> |
 | <div class="table--bg--yellow">11:00-11:20</div> | <div class="table--bg--yellow">A Family of Partial Cubes with Minimal Fibonacci Dimension</div> |
-| <div class="table--bg--yellow">11:20-11:40</div> | <div class="table--bg--yellow">Coffee break</div> |
-| <div class="table--bg--yellow">11:40-12:00</div> | <div class="table--bg--yellow">Coffee break</div> |
+| <div class="table--bg--yellow">11:00-11:20</div> | <div class="table--bg--yellow">Gabriele Fici, Jeffrey Shallit, Jamie Simpson. On Palindromic Periodicities</div> |
+| <div class="table--bg--yellow">11:20-11:40</div> | <div class="table--bg--yellow">Bowie Liu, Dennis Wong, Chan-Tong Lam, Sio-Kei Im. Generating a cyclic 2-Gray code for Lucas words in constant amortized time</div> |
+| <div class="table--bg--yellow">11:40-12:00</div> | <div class="table--bg--yellow">Peaker Guo, Kaisei Kishi.  Net Occurrences in Fibonacci and Thue-Morse Words</div> |
 
 #### 10:00 - 10:20 {.break}
 ##### Coffee break {.cont}
