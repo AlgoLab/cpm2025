@@ -35,7 +35,6 @@ td { background-color: #c7fdb5; }
   display:block;
 }
 .cont {
-    margin-top: -50px;
   display:block;
 }
 </style>
@@ -120,11 +119,10 @@ td { background-color: #c7fdb5; }
 | 11:20 - 11:40 | Seungbum Jo, Srinivasa Rao Satti. Encodings for Range Minimum Queries over Bounded Alphabets |
 | 11:40 - 12:00 | Simon R. Tarnow, Philip Bille, Inge Li Gørtz. Succinct Data Structures for Segments |
 	
-#### 12:00 - 13:00 {.break}
-##### Lunch break {.cont}
+#### 12:00 - 13:00: Lunch break {.break}
+#### 13:00 - 18:30: Excursion {.break}
+#### 18:30 - 21:00: Conference dinner {.break}
 
-13:00 - 18:30	Excursion
-18:30 - 21:00	Conference dinner
 	
 ## Thursday June 19th
 
