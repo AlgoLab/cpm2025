@@ -121,7 +121,7 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 ###### (Chair: Veli Mäkinen)  {.cont}
  
 #### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique
-	
+  
 #### 10:00 - 10:20 {.break}
 ##### Coffee break {.cont}
 	
@@ -144,10 +144,12 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 	
 ## Thursday June 19th
 
-Keynote Talk 3 (Chair: Gianluca Della Vedova)	
-09:00 - 10:00	"Inge Li Gørtz
-Locality Sensitive Hashing and Compressed Computation"
-	
+#### 09:00 - 10:00 {.keynote}
+### Keynote Talk 3 {.cont}
+###### (Chair: Gianluca Della Vedova)  {.cont}
+ 
+#### Inge Li Gørtz. Locality Sensitive Hashing and Compressed Computation
+  
 #### 10:00 - 10:20 {.break}
 ##### Coffee break {.cont}
 	
