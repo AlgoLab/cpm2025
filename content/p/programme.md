@@ -28,7 +28,7 @@ td { padding:2px;
 }
 .keynote2 {
   background-color: #ffffc2;
-  padding: 5px;
+  padding: 8px;
   border: 0px solid #000;
   border-radius: 11px;
   font-size: 14px; 
