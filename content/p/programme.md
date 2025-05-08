@@ -77,9 +77,9 @@ td { background-color: #c7fdb5; }
 
 #### 10:00 - 10:20: Coffee break {.break}
   
-#### 10:20 - 12:20: Contributed talks 1 [combinatorics] (Chair: TBD) {.talk}
+#### 10:20 - 12:20: Contributed talks 1 [combinatorics] <div class="chair">(Chair: NN)</div> {.talk}
 
-|  <td colspan=2>Chair: TBD</td> |
+| <a></a> | <a></a> |
 | --- | --- |
 | 10:20-10:40 | Dirk Nowotka, Max Wiedenhöft. The Equivalence Problem of E-Pattern Languages with Length Constraints is Undecidable |
 | 10:40-11:00 | Marcella Anselmo, Giuseppa Castiglione, Manuela Flores, Dora Giammarresi, Maria Madonia, Sabrina Mantaci. A Family of Partial Cubes with Minimal Fibonacci Dimension |
@@ -90,14 +90,14 @@ td { background-color: #c7fdb5; }
 
 #### 12:00 - 13:00: Lunch break {.break}
   
-#### 13:30 - 14:00: Highlight Talk 1 (Chair: NN) {.talk}
+#### 13:30 - 14:00: Highlight Talk 1 <div class="chair">(Chair: NN)</div> {.talk}
 	
 | <a></a> | <a></a> |
 | --- | --- |
 |  | Michal Koucký. Almost Linear Size Edit Distance Sketch (STOC 2024) |
 
 
-#### 14:00 - 15:00: Contributed talks 2 [graphs and automata] (Chair: NN)  {.talk}
+#### 14:00 - 15:00: Contributed talks 2 [graphs and automata] <div class="chair">(Chair: NN)</div>  {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- |
@@ -107,7 +107,7 @@ td { background-color: #c7fdb5; }
 	
 #### 15:00 - 15:30: Coffee break {.break}
   
-#### 15:30 - 17:00: Contributed talks 3 [matching and comparison] (Chair: NN) {.talk}
+#### 15:30 - 17:00: Contributed talks 3 [matching and comparison] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- |
@@ -124,16 +124,13 @@ td { background-color: #c7fdb5; }
 ## Wednesday June 18th
 
 
-#### 09:00 - 10:00 Keynote Talk 2 {.keynote}
-
-| <div class="table--bg--yellow">Chair: Veli Mäkinen</div> |
-| --- |
+#### 09:00 - 10:00 Keynote Talk 2 <div class="chair">(Chair: Veli Mäkinen)</div> {.keynote}
 
 #### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique {.keynote}
   
 #### 10:00 - 10:20: Coffee break {.break}
 
-#### 10:20 - 10:40: Contributed talks 4 [indexing] (Chair: NN) {.talk}
+#### 10:20 - 10:40: Contributed talks 4 [indexing] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- |
@@ -150,15 +147,13 @@ td { background-color: #c7fdb5; }
 	
 ## Thursday June 19th
 
-#### 09:00 - 10:00 Keynote Talk 3 {.keynote}
-| <div class="table--bg--yellow">Chair: Gianluca Della Vedova</div> |
-| --- |
+#### 09:00 - 10:00 Keynote Talk 3 <div class="chair">(Chair: Gianluca Della Vedova)</div> {.keynote}
  
 #### Inge Li Gørtz. Locality Sensitive Hashing and Compressed Computation {.keynote}
   
 #### 10:00 - 10:20: Coffee break {.break}
   
-#### 10:20 - 12:00 Contributed talks 5 [space optimization] (Chair: NN) {.talk}
+#### 10:20 - 12:00 Contributed talks 5 [space optimization] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- |
@@ -170,13 +165,13 @@ td { background-color: #c7fdb5; }
 	
 #### 12:00 - 13:00: Lunch break {.break}
 	
-#### 13:30 - 14:00: Highlight Talk 2 (Chair: NN) {.talk}
+#### 13:30 - 14:00: Highlight Talk 2 <div class="chair">(Chair: NN)</div> {.talk}
 	
 | <a></a> | <a></a> |
 | --- | --- |
 | 13:30 - 14:00 | David Koslicki. Prokrustean Graph: A substring index for rapid k-mer size analysis (RECOMB 2025) |
 
-#### 14:00 - 15:00: Contributed talks 6 [run-length compression] (Chair: NN) {.talk}
+#### 14:00 - 15:00: Contributed talks 6 [run-length compression] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- |
@@ -187,7 +182,7 @@ td { background-color: #c7fdb5; }
 #### 15:00 - 15:30 {.break}
 ##### Coffee break {.cont}
 	
-#### 14:00 - 15:00: Contributed talks 7 [string algorithms] (Chair: NN) {.talk}
+#### 14:00 - 15:00: Contributed talks 7 [string algorithms] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | --- |
