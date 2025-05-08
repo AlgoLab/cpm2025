@@ -53,6 +53,10 @@ td { background-color: #c7fdb5; }
 .cont {
   display:block;
 }
+.chair {
+	font-size: 16px; 
+  font-weight: normal;
+}
 </style>
 
 # Programme
@@ -65,7 +69,7 @@ td { background-color: #c7fdb5; }
 #### 08:50 - 09:00 Opening {.break}
 
   
-#### 09:00 - 10:00 Keynote Talk 1 {.keynote}
+#### 09:00 - 10:00 Keynote Talk 1 <div class="chair">Chair: Paola Bonizzoni</div> {.keynote}
 
 | <div class="table--bg--yellow">Chair: Paola Bonizzoni</div> |
 | --- |
