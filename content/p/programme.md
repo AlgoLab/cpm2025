@@ -38,9 +38,8 @@ td { background-color: #c7fdb5; }
     display: inline
 }
 .cont {
-    display: inline;
     margin-top: -40px;
-
+  display:block;
 }
 </style>
 
