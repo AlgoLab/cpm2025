@@ -112,7 +112,8 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 | 14:20 - 14:40 | Wiktor Zuba, Oded Lachish, Solon Pissis. Shortest Undirected Paths in de Bruijn Graphs"
 | 14:40 - 15:00 | Ruben Becker, Nicola Cotumaccio, Sung-Hwan Kim, Nicola Prezza, Carlo Tosoni. Encoding Co-Lex Orders of Finite-State Automata in Linear Space"
 	
-15:00 - 15:30	Coffee break
+#### 15:00 - 15:30 {.break}
+##### Coffee break {.cont}
 	
 "Contributed talks 3 [matching and comparison]
 (Chair: NN)"	
@@ -132,10 +133,12 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 
 #### 09:00 - 10:00 {.keynote}
 ### Keynote Talk 2 (Chair: Veli Mäkinen)  {.cont}
-
+ (Chair: Veli Mäkinen)  {.cont}
+ 
 #### Nicola Prezza. Suffixient Arrays: a new Efficient Suffix Array Compression Technique
 	
-10:00 - 10:20	Coffee break
+#### 10:00 - 10:20 {.break}
+##### Coffee break {.cont}
 	
 "Contributed talks 4 [indexing]
 (Chair: NN)"	
@@ -148,7 +151,9 @@ Almost Linear Size Edit Distance Sketch (STOC 2024)"
 | 11:20 - 11:40 | Seungbum Jo, Srinivasa Rao Satti. Encodings for Range Minimum Queries over Bounded Alphabets" |
 | 11:40 - 12:00 | Simon R. Tarnow, Philip Bille, Inge Li Gørtz. Succinct Data Structures for Segments" |
 	
-12:00 - 13:00	Lunch break 
+#### 12:00 - 13:00 {.break}
+##### Lunch break {.cont}
+
 13:00 - 18:30	Excursion
 18:30 - 21:00	Conference dinner
 	
@@ -158,7 +163,8 @@ Keynote Talk 3 (Chair: Gianluca Della Vedova)
 09:00 - 10:00	"Inge Li Gørtz
 Locality Sensitive Hashing and Compressed Computation"
 	
-10:00 - 10:20	Coffee break
+#### 10:00 - 10:20 {.break}
+##### Coffee break {.cont}
 	
 "Contributed talks 5 [space optimization]
 (Chair: NN)"	
@@ -171,7 +177,8 @@ Locality Sensitive Hashing and Compressed Computation"
 | 11:20 - 11:40 | Jarno N. Alanko, Ruben Becker, Davide Cenzato, Travis Gagie, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.  The Trie Measure, Revisited" |
 | 11:40 - 12:00 | Yoshifumi Sakai. Linear-space LCS enumeration for two strings" |
 	
-12:00 - 13:30	Lunch break
+#### 12:00 - 13:00 {.break}
+##### Lunch break {.cont}
 	
 Highlight Talk 2 (Chair: NN)	
 
@@ -188,7 +195,8 @@ Highlight Talk 2 (Chair: NN)
 | 14:20 - 14:40 | Yuto Iguchi, Ryo Yoshinaka, Ayumi Shinohara. Pattern Matching on Run-Length Grammar-Compressed Strings in Linear Time" |
 | 14:40 - 15:00 | Philip Bille, Inge Li Gørtz, Simon Puglisi, Simon R. Tarnow. Compressed Dictionary Matching on Run-Length Encoded Strings" |
 	
-15:00 - 15:30	Coffee break
+#### 15:00 - 15:30 {.break}
+##### Coffee break {.cont}
 	
 "Contributed talks 7 [string algorithms]
 (Chair: NN)"	
