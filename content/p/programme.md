@@ -41,6 +41,13 @@ td { padding:2px;
     border-radius: 11px;
   display:block;
 }
+.talk {
+  background-color: #c7fdb5; 
+    padding: 5px;
+    border: 1px solid #000;
+    border-radius: 11px;
+  display:block;
+}
 .chair {
 	font-size: 14px; 
   font-weight: normal;
