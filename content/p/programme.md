@@ -26,11 +26,13 @@ td { padding:2px;
   display:block;
 }
 .keynote2 {
-    background-color: #ffffc2;
-    padding: 5px;
-    border: 0px solid #000;
-    border-radius: 11px;
-    display:block;
+  background-color: #ffffc2;
+  padding: 5px;
+  border: 0px solid #000;
+  border-radius: 11px;
+  font-size: 14px; 
+  font-weight: normal;
+  display:block;
 }
 .break {
     background-color: #ffcfdc;
