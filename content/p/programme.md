@@ -13,31 +13,17 @@ table {
   border-radius: 6px; 
 }
 th { 
-  background-color:#c7fdb5;
   padding:1px;
   border: 0px;
   font-size: 16px; 
 }
 td { padding:2px; }
 td { background-color: #c7fdb5; }
-.table--bg--red {
-	background-color: #ffcfdc;
-}
 .table--bg--yellow {
 	background-color: #ffffc2;
 }
-.table--bg--green {
-	background-color: #c7fdb5;
-}
 .keynote {
     background-color: #ffffc2;
-    padding: 5px;
-    border: 1px solid #000;
-    border-radius: 11px;
-  display:block;
-}
-.talk {
-    background-color: #c7fdb5;
     padding: 5px;
     border: 1px solid #000;
     border-radius: 11px;
@@ -50,16 +36,10 @@ td { background-color: #c7fdb5; }
     border-radius: 11px;
   display:block;
 }
-.cont {
-  display:block;
-}
 .chair {
 	font-size: 14px; 
   font-weight: normal;
   display:inline;
-}
-.yellow {
-	background-color: #ffffc2;
 }
 </style>
 
@@ -77,7 +57,7 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | :--- |
-| <div class="table--bg--yellow">:</div> | <div class="table--bg--yellow">Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited</div> |
+| <div class="table--bg--yellow"></div> | <div class="table--bg--yellow">Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited</div> |
 
 #### 10:00 - 10:20: Coffee break {.break}
   
