@@ -1,8 +1,8 @@
 <style type="text/css">
 tbody { width:100%;background-color:#ddeeff;border-collapse:collapse; }
 table { width:100%;background-color:#ddeeff;border-collapse:collapse; }
-th { background-color:#ddeeff;color:white;width:50%;padding:1px;border:2px solid #ddeeff; }
-td { padding:0px;border:2px solid #ddeeff; }
+th { background-color:#c7fdb5;color:#ddeeff;padding:1px;border:2px solid #ddeeff; }
+td { padding:0px; }
 td { background-color: #c7fdb5; }
 .table--bg--red {
 	background-color: #ffcfdc;
@@ -52,9 +52,9 @@ td { background-color: #c7fdb5; }
 #### 09:00 - 10:00 Keynote Talk 1 {.keynote}
 ###### (Chair: Paola Bonizzoni) {.cont}
 
-| <a></a> | <a></a> |
+| <div class="table--bg--yellow">Chair:</div> | <div class="table--bg--yellow">Paola Bonizzoni</div> |
 | --- | --- | --- |
-|  <div class="table--bg--yellow">Chair:</div> | Paola Bonizzoni |
+| <a></a> | <a></a> |
 
 
 #### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.keynote}
