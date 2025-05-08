@@ -134,7 +134,7 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | --- |
-| 10:20 - 10:40 | Paolo Ferragina, Filippo Lari. FL-RMQ: A learned approach to range minimum queries |
+| 10:20 - 10:40 | Paolo Ferragina, Filippo Lari.<br> FL-RMQ: A learned approach to range minimum queries |
 | 10:40 - 11:00 | Hideo Bannai, Philip Bille, Inge Li Gørtz, Gad M. Landau, Gonzalo Navarro, Nicola Prezza, Teresa Anna Steiner, Simon Rumle Tarnow. Text Indexing for Simple Regular Expressions |
 | 11:00 - 11:20 | Waseem Akram, Takuya Mieno. Sorted Consecutive Occurrence Queries in Substrings |
 | 11:20 - 11:40 | Seungbum Jo, Srinivasa Rao Satti. Encodings for Range Minimum Queries over Bounded Alphabets |
