@@ -111,10 +111,7 @@ td { padding:2px;
 
 
 #### 09:00 - 10:00 Keynote Talk 2 <div class="chair">(Chair: Veli Mäkinen)</div> {.keynote}
-
-| <a></a> | <a></a> |
-| --- | :--- |
-| .  | <div class="table--bg--yellow">Nicola Prezza.<br> Suffixient Arrays: a new Efficient Suffix Array Compression Technique</div> |
+##### Nicola Prezza.<br> Suffixient Arrays: a new Efficient Suffix Array Compression Technique {.keynote2}
 
 #### 10:00 - 10:20: Coffee break {.break}
 
@@ -136,9 +133,7 @@ td { padding:2px;
 ## Thursday June 19th
 
 #### 09:00 - 10:00 Keynote Talk 3 <div class="chair">(Chair: Gianluca Della Vedova)</div> {.keynote}
-| <a></a> | <a></a> |
-| --- | :--- |
-|  | <div class="table--bg--yellow">Inge Li Gørtz.<br> Locality Sensitive Hashing and Compressed Computation</div> |
+##### Inge Li Gørtz.<br> Locality Sensitive Hashing and Compressed Computation {.keynote2}
  
 #### 10:00 - 10:20: Coffee break {.break}
   
