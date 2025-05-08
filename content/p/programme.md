@@ -57,7 +57,7 @@ td { background-color: #c7fdb5; }
 #### 08:50 - 09:00 {.break}
 ##### Opening {.cont}
 
-
+  
 #### 09:00 - 10:00 {.keynote}
 ### Keynote Talk 1 {.cont}
 ###### (Chair: Paola Bonizzoni)  {.cont}
