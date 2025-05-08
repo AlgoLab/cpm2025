@@ -74,7 +74,7 @@ td { background-color: #c7fdb5; }
 
 | <a></a> | <a></a> |
 | --- | :--- |
-|  | <div class="table--bg--yellow">Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited</div> |
+| <a></a> | <div class="table--bg--yellow">Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited</div> |
   
 
 #### 10:00 - 10:20: Coffee break {.break}
