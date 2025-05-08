@@ -75,7 +75,7 @@ td { background-color: #c7fdb5; }
   
 #### 09:00 - 10:00 Keynote Talk 1 <div class="chair">(Chair: Paola Bonizzoni)</div> {.keynote}
 
-| A1 | A2 |
+| <a></a> | <a></a> |
 | --- | :--- |
 | : | Kunihiko Sadakane.<br> Compressed Suffix Arrays and Suffix Trees Revisited |  
 {.table-background-yellow}
