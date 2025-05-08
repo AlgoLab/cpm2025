@@ -1,7 +1,7 @@
 <style type="text/css">
 tbody { width:100%;background-color:#ddeeff;border-collapse:collapse; }
 table { width:100%;background-color:#ddeeff;border-collapse:collapse; }
-th { background-color:#c7fdb5;color:#ddeeff;padding:1px;border:2px solid #ddeeff; }
+th { background-color:#c7fdb5;color:#ddeeff;padding:1px;border:2px solid #ddeeff;font-size: 16px; }
 td { padding:0px; }
 td { background-color: #c7fdb5; }
 .table--bg--red {
@@ -54,7 +54,6 @@ td { background-color: #c7fdb5; }
 
 | <div class="table--bg--yellow">Chair:</div> | <div class="table--bg--yellow">Paola Bonizzoni</div> |
 | --- | --- | --- |
-| <a></a> | <a></a> |
 
 
 #### Kunihiko Sadakane. Compressed Suffix Arrays and Suffix Trees Revisited {.keynote}
