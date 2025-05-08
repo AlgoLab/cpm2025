@@ -69,7 +69,7 @@ td { background-color: #c7fdb5; }
 ##### Coffee break {.cont}
   
 #### 10:20 - 12:20 {.talk}
-### Contributed talks 1 [combinatorics] (Chair: TBD)
+### Contributed talks 1 [combinatorics] (Chair: TBD) {.cont}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -83,7 +83,7 @@ td { background-color: #c7fdb5; }
 
 #### 12:00 - 13:00 {.break}
 ##### Lunch break {.cont}
-
+  
 #### 13:30 - 14:00 {.talk}
 ### Highlight Talk 1 (Chair: NN)
 	
@@ -93,7 +93,7 @@ td { background-color: #c7fdb5; }
 
 
 #### 14:00 - 15:00 {.talk}
-### Contributed talks 2 [graphs and automata] (Chair: NN)
+### Contributed talks 2 [graphs and automata] (Chair: NN) {.cont}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -105,7 +105,7 @@ td { background-color: #c7fdb5; }
 ##### Coffee break {.cont}
   
 #### 15:30 - 17:00 {.talk}
-### Contributed talks 3 [matching and comparison] (Chair: NN)
+### Contributed talks 3 [matching and comparison] (Chair: NN) {.cont}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -131,7 +131,7 @@ td { background-color: #c7fdb5; }
 ##### Coffee break {.cont}
 	
 #### 10:20 - 10:40 {.talk}
-### Contributed talks 4 [indexing] (Chair: NN)"	
+### Contributed talks 4 [indexing] (Chair: NN)" {.cont}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -159,7 +159,7 @@ td { background-color: #c7fdb5; }
 ##### Coffee break {.cont}
   
 #### 10:20 - 12:00 {.talk}
-### Contributed talks 5 [space optimization] (Chair: NN)
+### Contributed talks 5 [space optimization] (Chair: NN) {.cont}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -173,14 +173,14 @@ td { background-color: #c7fdb5; }
 ##### Lunch break {.cont}
 	
 #### 13:30 - 14:00 {.talk}
-### Highlight Talk 2 (Chair: NN)
+### Highlight Talk 2 (Chair: NN) {.cont}
 	
 | <a></a> | <a></a> |
 | --- | --- | --- |
 | 13:30 - 14:00 | David Koslicki. Prokrustean Graph: A substring index for rapid k-mer size analysis (RECOMB 2025)" |
 
 #### 14:00 - 15:00 {.talk}
-### Contributed talks 6 [run-length compression] (Chair: NN)
+### Contributed talks 6 [run-length compression] (Chair: NN) {.cont}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
@@ -192,7 +192,7 @@ td { background-color: #c7fdb5; }
 ##### Coffee break {.cont}
 	
 #### 14:00 - 15:00 {.talk}
-### Contributed talks 7 [string algorithms] (Chair: NN)
+### Contributed talks 7 [string algorithms] (Chair: NN) {.cont}
 
 | <a></a> | <a></a> |
 | --- | --- | --- |
