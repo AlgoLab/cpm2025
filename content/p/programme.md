@@ -1,6 +1,15 @@
 <style type="text/css">
-tbody { width:100%;background-color:#ddeeff;border-collapse:collapse; }
-table { width:100%;background-color:#ddeeff;border-collapse:collapse; }
+tbody { 
+  width:100%;
+  background-color:#ddeeff;
+  border-collapse:collapse;
+}
+table { 
+  width:100%;
+  background-color:#ddeeff;
+  border-collapse:collapse;
+  border-radius: 6px; 
+}
 th { background-color:#c7fdb5;padding:1px;border:2px solid #ddeeff;font-size: 16px; }
 td { padding:0px; }
 td { background-color: #c7fdb5; }
@@ -78,7 +87,7 @@ td { background-color: #c7fdb5; }
 	
 | <a></a> | <a></a> |
 | --- | --- |
-| 13:30 - 14:00 | Michal Koucký. Almost Linear Size Edit Distance Sketch (STOC 2024) |
+|  | Michal Koucký. Almost Linear Size Edit Distance Sketch (STOC 2024) |
 
 
 #### 14:00 - 15:00: Contributed talks 2 [graphs and automata] (Chair: NN)  {.talk}
