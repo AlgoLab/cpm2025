@@ -86,7 +86,7 @@ td { padding:2px;
 | 11:40 - 12:00 | Peaker Guo, Kaisei Kishi.<br>  Net Occurrences in Fibonacci and Thue-Morse Words |
 
 
-#### 12:00 - 13:00: Lunch break {.break}
+#### 12:00 - 13:30: Lunch break {.break}
   
 #### 13:30 - 14:00: Highlight Talk 1 <div class="chair">(Chair: NN)</div> {.talk}
 	
@@ -158,7 +158,7 @@ td { padding:2px;
 | 11:20 - 11:40 | Jarno N. Alanko, Ruben Becker, Davide Cenzato, Travis Gagie, Sung-Hwan Kim, Bojana Kodric, Nicola Prezza.<br>  The Trie Measure, Revisited |
 | 11:40 - 12:00 | Yoshifumi Sakai.<br> Linear-space LCS enumeration for two strings |
 	
-#### 12:00 - 13:00: Lunch break {.break}
+#### 12:00 - 13:30: Lunch break {.break}
 	
 #### 13:30 - 14:00: Highlight Talk 2 <div class="chair">(Chair: NN)</div> {.talk}
 	
@@ -177,7 +177,7 @@ td { padding:2px;
 #### 15:00 - 15:30 {.break}
 ##### Coffee break {.cont}
 	
-#### 14:00 - 15:00: Contributed talks 7 [string algorithms] <div class="chair">(Chair: NN)</div> {.talk}
+#### 15:30 - 16:30: Contributed talks 7 [string algorithms] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
