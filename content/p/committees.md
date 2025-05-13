@@ -50,6 +50,7 @@
 ## Steering Committee
 
 *  Amihood Amir (Bar-Ilan University, Israel)
+*  Hideo Bannai (Institute of Science Tokyo, Japan)
 *  Inge Li Gørtz (Technical University of Denmark, Denmark)
 *  Roberto Grossi (University of Pisa, Italy)
 *  Jakub Radoszewski (University of Warsaw, Poland)
