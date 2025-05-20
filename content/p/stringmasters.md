@@ -49,10 +49,11 @@ td { background-color: #c7fdb5; }
 # Stringmasters
 
 Just before and after CPM 2025, there will be a StringMasters workshop on June 16 and 20. 
-The venue for StringMasters is at the U14-ABACUS building
-[![map](/map-u14.jpg)](https://www.openstreetmap.org/way/23154089#map=19/45.523734/9.219992), University of Milano-Bicocca
-Click on the map for a larger map.
+The venue for StringMasters is at the U14-ABACUS building, University of
+Milano-Bicocca.
 
+[![map](/map-u14.jpg)](https://www.openstreetmap.org/way/23154089#map=19/45.523734/9.219992)
+Click on the map for a larger map.
 You can also check directions on [Google
 Maps](https://maps.app.goo.gl/Y4wqzV8Vgr8JnMB26) and [Apple Maps](https://maps.apple.com/?address=Viale%20Sarca%20336,%2020126%20Milano,%20Italia&auid=10195625695833040895&ll=45.523623,9.219530&lsp=9902&q=Dipartimento%20di%20Informatica,%20Sistemistica%20e%20Comunicazione%20DISCo&t=r).
 
