@@ -75,7 +75,7 @@ td { padding:2px;
 
 #### 10:00 - 10:20: Coffee break {.break}
   
-#### 10:20 - 12:20: Contributed talks 1 [combinatorics] <div class="chair">(Chair: NN)</div> {.talk}
+#### 10:20 - 12:00: Contributed talks 1 [combinatorics] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
@@ -127,7 +127,7 @@ td { padding:2px;
 
 #### 10:00 - 10:20: Coffee break {.break}
 
-#### 10:20 - 10:40: Contributed talks 4 [indexing] <div class="chair">(Chair: NN)</div> {.talk}
+#### 10:20 - 12:00: Contributed talks 4 [indexing] <div class="chair">(Chair: NN)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
