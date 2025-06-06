@@ -86,7 +86,9 @@ td { padding:2px;
 | 11:40 - 12:00 | Peaker Guo, Kaisei Kishi.<br>  Net Occurrences in Fibonacci and Thue-Morse Words |
 
 
-#### 12:00 - 13:30: Lunch break {.break}
+#### 12:00 - 12:15: Group photo {.break}
+  
+#### 12:15 - 13:30: Lunch break {.break}
   
 #### 13:30 - 14:00: Highlight Talk 1 <div class="chair">(Chair: NN)</div> {.talk}
 	
