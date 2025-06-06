@@ -38,7 +38,7 @@ The registration deadline is June 10th. [Registration form](https://framaforms.o
 
 The school is organized by Giulia Bernardini (giulia.bernardini[at]unimi.it), Gabriele Fici (gabriele.fici[at]unipa.it) and Raffaella Rizzi (raffaella.rizzi[at]unimib.it).
 
-## Tentative schedule
+## Programme
 
 ### Thursday, June 12th
 
