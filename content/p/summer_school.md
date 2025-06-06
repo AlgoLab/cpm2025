@@ -42,7 +42,7 @@ The school is organized by Giulia Bernardini (giulia.bernardini[at]unimi.it), Ga
 
 ### Thursday, June 12th
 
-#### Lecture1 (Room T023)
+#### Lecture1 (Ground floor, Room T023)
 #### 14:00-17:00 {.keynote}
 
 ##### Approximate Pattern Matching 101 (Jonas Ellert) {.cont}
@@ -58,7 +58,7 @@ The lecture is aimed at students at all levels.
 
 ### Friday, June 13th
 
-#### Lecture2 (Room T023)
+#### Lecture2 (Ground floor, Room T023)
 #### 9:00-12:00 {.keynote}
 
 ##### Dictionary Compression and Repetitiveness Measures (Hideo Bannai) {.cont}
@@ -72,7 +72,7 @@ In this talk, I will give a (biased) survey of various dictionary compression me
 
 ####  
 
-#### Lecture3 (Room T023)
+#### Lecture3 (Ground floor, Room T023)
 #### 14:00-17:00 {.keynote}
 
 ##### Exploring the Relationships between Graph and String Problems (Giulia Punzi) {.cont}
