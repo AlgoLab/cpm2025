@@ -3,11 +3,12 @@
 The social event will be on June 18th and will be a boat trip on the Como Lake and a dinner in a villa on
 the lake.
 
-### Tentative timeline:
+### Timeline:
 
-* 14.00: bus transfer from the conference venue to Como
-* 16.00: boat trip on the Como Lake
-* 17.30: visit of the city center
+* 13.00: bus transfer from the conference venue to Como. Beware that the buses
+  will leave the conference site at 13.00.
+* 15.30: boat trip on the Como Lake
+* 17.00: free time in Cernobbio
 * 18.30: bus transfer to the Villa del Grumello for the dinner
 * 19.00: dinner time
 * 22.30: bus transfer to the conference venue and nearby hotels
