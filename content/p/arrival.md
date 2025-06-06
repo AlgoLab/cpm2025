@@ -1,6 +1,12 @@
 # How to reach us
 
-TBA
+The conference will be in the [U4 building](https://www.google.it/maps/place/Edificio+U4+-+Universit%C3%A0+degli+Studi+di+Milano+-+Bicocca/@45.5134031,9.2095216,17z), while StringMasters and the summer
+school are in the [U14
+building](https://www.google.it/maps/place/Edificio+U14+-+Universit%C3%A0+Degli+Studi+Di+Milano+-+Bicocca+-+Dipartimento+di+Informatica+Sistemistica+e+Comunicazione/@45.5236028,9.2190725,18.25z).
+
+The university provides some
+[instructions](https://en.unimib.it/reach-us/how-reach-us) on how to reach us
+(follow the instruction for the Campus of Milan).
 
 # Accommodation
 
