@@ -13,10 +13,6 @@ Tap water is safe to drink.
 
 Service charges are always included in the final price, so there is no need to tip separately.
 
-## English
-
-???
-
 ## Safety
 
 The streets in Milan are usually safe. You should however exercise standard caution, as you would do in any large city especially around the very crowded areas. In the case of an emergency, dial the all-purpose emergency number 112.
@@ -40,9 +36,7 @@ Mid June in Milan can be hot and humid.
 
 ## Things to do
 
-For things to do in Miln, visit the following official website by the city of Milan:
-
-## Food
+For things to do in Milan, visit the following official website by the city of Milan: [https://www.yesmilano.it/en](https://www.yesmilano.it/en)
 
 ## Vegetarian/Vegan
 
