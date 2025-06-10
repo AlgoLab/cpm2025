@@ -57,6 +57,12 @@ Click on the map for a larger map.
 You can also check directions on [Google
 Maps](https://maps.app.goo.gl/Y4wqzV8Vgr8JnMB26) and [Apple Maps](https://maps.apple.com/?address=Viale%20Sarca%20336,%2020126%20Milano,%20Italia&auid=10195625695833040895&ll=45.523623,9.219530&lsp=9902&q=Dipartimento%20di%20Informatica,%20Sistemistica%20e%20Comunicazione%20DISCo&t=r).
 
+## Lunch info
+There are few places around the location to have lunch:
+- [Bicocca Village](https://g.co/kgs/CEH6gdR): shopping mall with plenty food alternatives
+- [Toast To Coast](https://g.co/kgs/7KtYAJs): sandiwiches and daily lunch menus
+- [Zero Pensieri](https://g.co/kgs/FFcJEHF): pinsa (pizza-like) and daily lunch menus
+
 ## Organizers
 
 The workshop is organized by Zsuzsanna Lipták, Golnaz Badkobeh, and Dominik Köppl.
