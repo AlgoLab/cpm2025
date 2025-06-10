@@ -75,7 +75,7 @@ td { padding:2px;
 
 #### 10:00 - 10:20: Coffee break {.break}
   
-#### 10:20 - 12:00: Contributed talks 1 [combinatorics] <div class="chair">(Chair: NN)</div> {.talk}
+#### 10:20 - 12:00: Contributed talks 1 [combinatorics] <div class="chair">(Chair: Marinella Sciortino)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
@@ -90,14 +90,14 @@ td { padding:2px;
   
 #### 12:15 - 13:30: Lunch break {.break}
   
-#### 13:30 - 14:00: Highlight Talk 1 <div class="chair">(Chair: NN)</div> {.talk}
+#### 13:30 - 14:00: Highlight Talk 1 <div class="chair">(Chair: Paweł Gawrychowski)</div> {.talk}
 	
 | <a></a> | <a></a> |
 | --- | :--- |
 |  | Michal Koucký.<br> Almost Linear Size Edit Distance Sketch (STOC 2024) |
 
 
-#### 14:00 - 15:00: Contributed talks 2 [graphs and automata] <div class="chair">(Chair: NN)</div>  {.talk}
+#### 14:00 - 15:00: Contributed talks 2 [graphs and automata] <div class="chair">(Chair: Paweł Gawrychowski)</div>  {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
@@ -107,7 +107,7 @@ td { padding:2px;
 	
 #### 15:00 - 15:30: Coffee break {.break}
   
-#### 15:30 - 17:00: Contributed talks 3 [matching and comparison] <div class="chair">(Chair: NN)</div> {.talk}
+#### 15:30 - 17:00: Contributed talks 3 [matching and comparison] <div class="chair">(Chair: Giulia Punzi)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
@@ -150,7 +150,7 @@ td { padding:2px;
  
 #### 10:00 - 10:20: Coffee break {.break}
   
-#### 10:20 - 12:00 Contributed talks 5 [space optimization] <div class="chair">(Chair: NN)</div> {.talk}
+#### 10:20 - 12:00 Contributed talks 5 [space optimization] <div class="chair">(Chair: Gregory Kucherov)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
@@ -162,13 +162,13 @@ td { padding:2px;
 	
 #### 12:00 - 13:30: Lunch break {.break}
 	
-#### 13:30 - 14:00: Highlight Talk 2 <div class="chair">(Chair: NN)</div> {.talk}
+#### 13:30 - 14:00: Highlight Talk 2 <div class="chair">(Chair: Hideo Bannai)</div> {.talk}
 	
 | <a></a> | <a></a> |
 | --- | :--- |
 | 13:30 - 14:00 | David Koslicki.<br> Prokrustean Graph: A substring index for rapid k-mer size analysis (RECOMB 2025) |
 
-#### 14:00 - 15:00: Contributed talks 6 [run-length compression] <div class="chair">(Chair: NN)</div> {.talk}
+#### 14:00 - 15:00: Contributed talks 6 [run-length compression] <div class="chair">(Chair: Hideo Bannai)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
@@ -179,7 +179,7 @@ td { padding:2px;
 #### 15:00 - 15:30 {.break}
 ##### Coffee break {.cont}
 	
-#### 15:30 - 16:30: Contributed talks 7 [string algorithms] <div class="chair">(Chair: NN)</div> {.talk}
+#### 15:30 - 16:30: Contributed talks 7 [string algorithms] <div class="chair">(Chair: Giulia Bernardini)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
