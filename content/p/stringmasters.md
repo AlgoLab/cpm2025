@@ -100,7 +100,7 @@ Participation is free but we ask that you register on the form below.
 
 ## Registration
 
-The registration deadline is June 10th. [Registration form](https://framaforms.org/cpm-2025-stringmasters-1743620470)
+The registration deadline is June 11th. [Registration form](https://framaforms.org/cpm-2025-stringmasters-1743620470)
 
 ## Programme
 
