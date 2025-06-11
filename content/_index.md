@@ -23,7 +23,7 @@ For more [information on registration](/p/registration).
 
 ## Event schedule
 
-Schedule (TBD)
+The full schedule is at the [programme page](https://cpm2025.pangenome.eu/p/programme/)
 
 ## Contact
 
