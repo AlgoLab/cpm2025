@@ -129,7 +129,7 @@ td { padding:2px;
 
 #### 10:00 - 10:20: Coffee break {.break}
 
-#### 10:20 - 12:00: Contributed talks 4 [indexing] <div class="chair">(Chair: NN)</div> {.talk}
+#### 10:20 - 12:00: Contributed talks 4 [indexing] <div class="chair">(Chair: Solon Pissis)</div> {.talk}
 
 | <a></a> | <a></a> |
 | --- | :--- |
