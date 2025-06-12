@@ -106,7 +106,7 @@ The registration deadline is June 11th. [Registration form](https://framaforms.o
 
 ## Monday June 16th
 
-### Plenary Introductory Session
+### Plenary Introductory Session (Sala Seminari, 1st Floor)
 
 #### 09:30 - 09:35 {.keynote}
 ##### Opening 
