@@ -126,7 +126,7 @@ The registration deadline is June 11th. [Registration form](https://framaforms.o
 ##### Gathering First Results [Plenary Session], possibilities to switch groups 
 
 #### 12:00 - 14:00 {.break}  
-##### Break {.cont}
+##### Break
 
 #### 14:00 - 16:00 {.keynote}
 ##### Second Group Session 
