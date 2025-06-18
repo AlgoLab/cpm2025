@@ -13,8 +13,8 @@ the lake.
 * 17.00: free time in Cernobbio. Optional short guided tour of Cernobbio (by foot).
 * 18.30: bus transfer from Piazza Risorgimento to the [Villa del Grumello](https://maps.app.goo.gl/XUBaezQRAJCP8gHD9) for the dinner
 * 19.00: dinner time
-* 23.00: bus transfer to the conference venue and nearby hotels
-* 23.45: arrival in Milan.
+* 22.00: bus transfer to the conference venue.
+* 22.45: arrival in Milan.
 
 ### Photos
 {{% image "/como2.jpeg" "como lake" "max-width: 300px;" %}} &nbsp;&nbsp; {{% image "/como5.jpeg" "sailing como lake" "max-width: 300px;" %}}
