@@ -141,7 +141,7 @@ td { padding:2px;
 	
 #### 12:00 - 13:00: Lunch break {.break}
 #### 13:00 - 18:30: Excursion {.break}
-#### 18:30 - 21:00: Conference dinner {.break}
+#### 18:30 - 22:00: Conference dinner {.break}
 
 ## Thursday June 19th {.day}
 
