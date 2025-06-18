@@ -25,6 +25,10 @@ For more [information on registration](/p/registration).
 
 The full schedule is at the [programme page](https://cpm2025.pangenome.eu/p/programme/).
 
+## Strike on Friday 20
+
+There is going to be a strike on Friday affecting trains, subway, and flights.
+
 ## Contact
 
 You can reach us by email at cpm2025@googlegroups.com
