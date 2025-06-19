@@ -15,11 +15,9 @@ See you in Milan!
 *  ~~Camera-ready due:  **April 14, 2025**~~
 *  Conference: **June 17–19, 2025**
 
-## Registration
+## Proceedings
 
-Registration is [open](https://www.cpm2025.promoest.com/hp.aspx).
-For more [information on registration](/p/registration).
-
+The proceedings volume of CPM 2025 is now officially published as volume 331 of LIPIcs and available at: [https://www.dagstuhl.de/dagpub/978-3-95977-369-0](https://www.dagstuhl.de/dagpub/978-3-95977-369-0).
 
 ## Event schedule
 
