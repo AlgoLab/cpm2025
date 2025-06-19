@@ -5,6 +5,9 @@ The event will be held in Milano, Italy, June 17-19 2025.
 
 See you in Milan!
 
+## Photos of the event!
+
+Check out photos of CPM2025 [https://drive.google.com/drive/folders/1w5fWapBBHA-wTqic6Gg5ECb9AfRP-bTi?usp=sharing](here). If you want to contribute, please email your pictures to [emailto:mattia.sgro@unimib.it](mattia.sgro@unimib.it).
 
 ## Important dates
 
