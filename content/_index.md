@@ -7,7 +7,7 @@ See you in Milan!
 
 ## Photos of the event!
 
-Check out photos of CPM2025 [https://drive.google.com/drive/folders/1w5fWapBBHA-wTqic6Gg5ECb9AfRP-bTi?usp=sharing](here). If you want to contribute, please email your pictures to [emailto:mattia.sgro@unimib.it](mattia.sgro@unimib.it).
+Check out photos of CPM2025 [here](https://drive.google.com/drive/folders/1w5fWapBBHA-wTqic6Gg5ECb9AfRP-bTi?usp=sharing). If you want to contribute, please email your pictures to [mattia dot sgro at unimib dot it](emailto:mattia.sgro@unimib.it).
 
 ## Important dates
 
